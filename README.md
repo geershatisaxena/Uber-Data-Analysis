@@ -2,7 +2,7 @@
 
 # 🚖 Uber Data Analysis Dashboard
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=Uber+Data+Analysis+Project;Data+Cleaning+%7C+Data+Visualization;Pandas+%7C+NumPy+%7C+Matplotlib+%7C+Seaborn;Transforming+Raw+Data+Into+Insights;Exploratory+Data+Analysis+(EDA)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=Data+Cleaning+%7C+Data+Visualization;Pandas+%7C+NumPy+%7C+Matplotlib+%7C+Seaborn;Transforming+Raw+Data+Into+Insights;Exploratory+Data+Analysis+(EDA)" alt="Typing SVG" />
 
 <br>
 
