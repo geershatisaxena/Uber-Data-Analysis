@@ -15,7 +15,7 @@
 
 </div>
 
-<!-- Badges Row (Animated Pills) -->
+ Badges Row (Animated Pills) 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-FFD700?style=for-the-badge&logo=python&logoColor=black&labelColor=000000&color=FFD700)
@@ -31,7 +31,7 @@
 
 <br/>
 
-<!-- Project Description with animated fade-in -->
+
 <div align="center">
   <p style="font-size:1.2rem; animation: fadeInUp 1.2s ease-out;">
     🚀 <strong>Turn raw Uber trip data into actionable business insights.</strong> This project performs deep Exploratory Data Analysis (EDA) on ride-hailing data — uncovering temporal patterns, spatial hotspots, and operational inefficiencies using <strong>Pandas, Matplotlib, Seaborn, and Plotly</strong>.
