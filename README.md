@@ -91,7 +91,7 @@
 
 ## ⚙️ Installation & Setup
 
-```bash
+
 # 1. Clone the repository
 git clone https://github.com/yourusername/uber-data-analysis-python.git
 cd uber-data-analysis-python
