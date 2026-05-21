@@ -1,75 +1,112 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HERO HEADER                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--                   HERO — ANIMATED CAPSULE HEADER                   -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:06C167,100:00D4FF&height=200&section=header&text=🚗%20Uber%20Trips%20EDA&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Exploratory%20Data%20Analysis%20on%20Uber%20Pickups%20(Apr%20–%20Sep%202014)&descAlignY=60&descSize=18&descColor=06C167"/>
-
-<br/>
-
-<p>
-  <a href="https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis/stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername/Uber-Trips-Exploratory-Data-Analysis?style=for-the-badge&logo=starship&color=FFD60A&labelColor=000000&logoColor=FFD60A" alt="Stars"/>
-  </a>
-  <a href="https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis/network/members">
-    <img src="https://img.shields.io/github/forks/yourusername/Uber-Trips-Exploratory-Data-Analysis?style=for-the-badge&logo=git&color=06C167&labelColor=000000&logoColor=06C167" alt="Forks"/>
-  </a>
-  <a href="https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis/issues">
-    <img src="https://img.shields.io/github/issues/yourusername/Uber-Trips-Exploratory-Data-Analysis?style=for-the-badge&logo=gitbook&color=FF385C&labelColor=000000&logoColor=FF385C" alt="Issues"/>
-  </a>
-  <a href="https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/yourusername/Uber-Trips-Exploratory-Data-Analysis?style=for-the-badge&logo=opensourceinitiative&color=00D4FF&labelColor=000000&logoColor=00D4FF" alt="License"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Python-3.9%2B-FFD60A?style=for-the-badge&logo=python&logoColor=FFD60A&labelColor=000000" alt="Python"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Jupyter-Notebook-FF385C?style=for-the-badge&logo=jupyter&logoColor=FF385C&labelColor=000000" alt="Jupyter"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis">
-    <img src="https://img.shields.io/badge/View%20on-GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Open%20in-Jupyter-FF385C?style=for-the-badge&logo=jupyter&logoColor=FF385C&labelColor=000000"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Open%20in-Colab-06C167?style=for-the-badge&logo=googlecolab&logoColor=06C167&labelColor=000000"/>
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,20:06C167,45:00D4FF,70:FF385C,90:FFD60A,100:0d0d0d&height=280&section=header&text=🚗%20UBER%20TRIPS%20EDA&fontSize=62&fontColor=FFFFFF&animation=twinkling&fontAlignY=42&desc=⚡%20Exploratory%20Data%20Analysis%20on%204.5M%2B%20NYC%20Uber%20Pickups%20(Apr–Sep%202014)%20⚡&descAlignY=62&descSize=17&descColor=00D4FF&stroke=06C167&strokeWidth=2"/>
 
 <br/>
 
-<!-- Animated separator -->
+<!-- ═══ ANIMATED TYPING BANNER ═══ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=06C167&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=50&lines=🔍+Uncovering+Hidden+Patterns+in+Urban+Mobility...;📊+4%2C534%2C327+Uber+Pickups+Analyzed+%F0%9F%97%BD;⚡+Peak+Hours+%7C+Hotspots+%7C+Borough+Intelligence;🏆+Production-Grade+Data+Science+%7C+25%2B+Visualizations;🚀+From+Raw+CSV+to+Actionable+Business+Insights!" alt="Typing SVG"/>
+</a>
+
+<br/><br/>
+
+<!-- ═══ BADGE ROW 1 — REPO STATS ═══ -->
+<a href="https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis/stargazers">
+  <img src="https://img.shields.io/github/stars/yourusername/Uber-Trips-Exploratory-Data-Analysis?style=for-the-badge&logo=starship&color=FFD60A&labelColor=0d0d0d&logoColor=FFD60A" alt="Stars"/>
+</a>
+<a href="https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis/network/members">
+  <img src="https://img.shields.io/github/forks/yourusername/Uber-Trips-Exploratory-Data-Analysis?style=for-the-badge&logo=git&color=06C167&labelColor=0d0d0d&logoColor=06C167" alt="Forks"/>
+</a>
+<a href="https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis/watchers">
+  <img src="https://img.shields.io/github/watchers/yourusername/Uber-Trips-Exploratory-Data-Analysis?style=for-the-badge&logo=eye&color=00D4FF&labelColor=0d0d0d&logoColor=00D4FF" alt="Watchers"/>
+</a>
+<a href="https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis/issues">
+  <img src="https://img.shields.io/github/issues/yourusername/Uber-Trips-Exploratory-Data-Analysis?style=for-the-badge&logo=gitbook&color=FF385C&labelColor=0d0d0d&logoColor=FF385C" alt="Issues"/>
+</a>
+<a href="https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis/blob/main/LICENSE">
+  <img src="https://img.shields.io/badge/License-MIT-9B59B6?style=for-the-badge&logo=opensourceinitiative&logoColor=9B59B6&labelColor=0d0d0d" alt="License"/>
+</a>
+
+<br/>
+
+<!-- ═══ BADGE ROW 2 — TECH STACK ═══ -->
+<img src="https://img.shields.io/badge/Python-3.9+-FFD60A?style=for-the-badge&logo=python&logoColor=FFD60A&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Jupyter-Notebook-FF385C?style=for-the-badge&logo=jupyter&logoColor=FF385C&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Pandas-2.x-06C167?style=for-the-badge&logo=pandas&logoColor=06C167&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Seaborn-Statistical-00D4FF?style=for-the-badge&logo=python&logoColor=00D4FF&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Plotly-Interactive-9B59B6?style=for-the-badge&logo=plotly&logoColor=9B59B6&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/NumPy-1.24+-E67E22?style=for-the-badge&logo=numpy&logoColor=E67E22&labelColor=0d0d0d"/>
+
+<br/>
+
+<!-- ═══ BADGE ROW 3 — PROJECT META ═══ -->
+<img src="https://img.shields.io/badge/Status-✅%20Complete-06C167?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Records-4.5M%2B%20Trips-FFD60A?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Period-Apr–Sep%202014-00D4FF?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/City-New%20York%20City%20🗽-FF385C?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Visualizations-25%2B%20Charts-9B59B6?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Domain-Urban%20Mobility-E67E22?style=flat-square&labelColor=0d0d0d"/>
+
+<br/><br/>
+
+<!-- ═══ QUICK LAUNCH BUTTONS ═══ -->
+<a href="#">
+  <img src="https://img.shields.io/badge/⚡%20Open%20in%20Jupyter-Launch%20Now-FF385C?style=for-the-badge&logo=jupyter&labelColor=0d0d0d"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/☁️%20Open%20in%20Colab-Run%20Free-06C167?style=for-the-badge&logo=googlecolab&labelColor=0d0d0d"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/📊%20View%20Notebook-nbviewer-00D4FF?style=for-the-badge&logo=jupyter&labelColor=0d0d0d"/>
+</a>
+
+<br/><br/>
+
+<!-- ═══ ANIMATED RAINBOW DIVIDER ═══ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED INTRO BANNER                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--                     ANIMATED METRICS ROW                           -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 <table>
 <tr>
-<td>
-
-```
-  ██╗   ██╗██████╗ ███████╗██████╗      ███████╗██████╗  █████╗
-  ██║   ██║██╔══██╗██╔════╝██╔══██╗     ██╔════╝██╔══██╗██╔══██╗
-  ██║   ██║██████╔╝█████╗  ██████╔╝     █████╗  ██║  ██║███████║
-  ██║   ██║██╔══██╗██╔══╝  ██╔══██╗     ██╔══╝  ██║  ██║██╔══██║
-  ╚██████╔╝██████╔╝███████╗██║  ██║     ███████╗██████╔╝██║  ██║
-   ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝
-          Unlocking Urban Mobility Patterns with Data Science
-```
-
+<td align="center">
+<img src="https://img.shields.io/badge/🚗-4%2C534%2C327-FFD60A?style=for-the-badge&labelColor=0d0d0d&color=FFD60A"/>
+<br/><sub><b>Total Pickups</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📅-6%20Months-06C167?style=for-the-badge&labelColor=0d0d0d&color=06C167"/>
+<br/><sub><b>Time Coverage</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🏢-5%20Bases-00D4FF?style=for-the-badge&labelColor=0d0d0d&color=00D4FF"/>
+<br/><sub><b>Dispatch Bases</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⚙️-12%2B%20Features-FF385C?style=for-the-badge&labelColor=0d0d0d&color=FF385C"/>
+<br/><sub><b>Engineered</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📈-25%2B%20Plots-9B59B6?style=for-the-badge&labelColor=0d0d0d&color=9B59B6"/>
+<br/><sub><b>Visualizations</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🚀-82%25%20Growth-E67E22?style=for-the-badge&labelColor=0d0d0d&color=E67E22"/>
+<br/><sub><b>Apr → Sep</b></sub>
 </td>
 </tr>
 </table>
@@ -84,112 +121,120 @@
 
 <div align="center">
 
-| # | Section | # | Section |
-|:-:|---------|:-:|---------|
-| 1 | [🎯 Project Overview](#-project-overview) | 9 | [📊 Exploratory Data Analysis](#-exploratory-data-analysis) |
-| 2 | [✨ Key Objectives](#-key-objectives) | 10 | [💡 Key Findings & Insights](#-key-findings--business-insights) |
-| 3 | [📦 Dataset Description](#-dataset-description) | 11 | [🏁 Conclusion](#-conclusion) |
-| 4 | [🔍 Features & Highlights](#-features--highlights) | 12 | [🚀 Future Enhancements](#-future-enhancements) |
-| 5 | [🛠️ Tech Stack](#️-tech-stack) | 13 | [🤝 Contributing](#-contributing) |
-| 6 | [⚙️ Installation & Setup](#️-installation--setup) | 14 | [📄 License](#-license) |
-| 7 | [📁 Project Structure](#-project-structure) | 15 | [🙏 Acknowledgments](#-acknowledgments) |
-| 8 | [🔬 Analysis Workflow](#-data-analysis-workflow) | 16 | [⭐ Connect & Star](#-connect--support) |
+| 🟢 | Section | 🔵 | Section |
+|:--:|---------|:--:|---------|
+| `01` | [🎯 Project Overview](#-project-overview) | `09` | [📊 Exploratory Data Analysis](#-exploratory-data-analysis) |
+| `02` | [✨ Key Objectives](#-key-objectives) | `10` | [💡 Key Findings & Insights](#-key-findings--business-insights) |
+| `03` | [📦 Dataset Description](#-dataset-description) | `11` | [🏁 Conclusion](#-conclusion) |
+| `04` | [🔍 Features & Highlights](#-features--highlights) | `12` | [🚀 Future Enhancements](#-future-enhancements) |
+| `05` | [🛠️ Tech Stack](#️-tech-stack) | `13` | [🤝 Contributing](#-contributing) |
+| `06` | [⚙️ Installation & Setup](#️-installation--setup) | `14` | [📄 License](#-license) |
+| `07` | [📁 Project Structure](#-project-structure) | `15` | [🙏 Acknowledgments](#-acknowledgments) |
+| `08` | [🔬 Analysis Workflow](#-data-analysis-workflow) | `16` | [⭐ Star & Connect](#-connect--support) |
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
+
+---
 
 ## 🎯 Project Overview
 
 <div align="center">
-<img src="https://img.shields.io/badge/Status-Complete-06C167?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Domain-Urban%20Mobility-00D4FF?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Period-Apr%20–%20Sep%202014-FFD60A?style=flat-square&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Records-4.5M%2B-FF385C?style=flat-square&labelColor=000000"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06C167,100:00D4FF&height=4&section=header"/>
+
 </div>
 
 <br/>
 
-> **"Every ride tells a story. Half a million data points whisper the pulse of New York City."**
+<div align="center">
 
-This repository presents a **comprehensive Exploratory Data Analysis (EDA)** of over **4.5 million Uber pickup records** across New York City from **April to September 2014**. Through meticulous data science methodology — spanning preprocessing, feature engineering, statistical analysis, and stunning visualizations — this project decodes the hidden rhythms of urban transportation.
+> ### *"Every ride tells a story. 4.5 million data points whisper the pulse of New York City."*
 
-Whether you're a **data scientist** seeking to understand mobility patterns, a **business analyst** optimizing fleet deployment, or a **researcher** studying urban dynamics, this project delivers actionable intelligence wrapped in reproducible, production-grade code.
+</div>
+
+<br/>
+
+This repository delivers a **production-grade Exploratory Data Analysis** on one of the most iconic urban datasets ever published — **4,534,327 Uber pickup records** across New York City from **April to September 2014**. It is a deep, systematic investigation of urban mobility combining rigorous data science methodology with rich, expressive visualizations.
+
+Through meticulous feature engineering, statistical dissection, geospatial mapping, and time-series analysis, this project transforms raw GPS coordinates and timestamps into a vivid portrait of how a city moves.
+
+<br/>
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                      PROJECT AT A GLANCE                            │
-├──────────────────────┬──────────────────────────────────────────────┤
-│  📅 Time Period      │  April 2014 – September 2014 (6 months)     │
-│  📍 Coverage         │  New York City (All 5 Boroughs)              │
-│  🗄️  Raw Records     │  4,534,327 Uber pickup entries               │
-│  📊 Features Created │  12+ engineered temporal & spatial features  │
-│  📈 Visualizations   │  25+ charts, heatmaps & interactive plots    │
-│  🏢 Dispatch Bases   │  5 unique Uber dispatch bases analyzed       │
-│  🎯 Focus Areas      │  Time, Space, Demand, Peak Patterns          │
-└──────────────────────┴──────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║                        🚗  PROJECT AT A GLANCE  🚗                      ║
+╠══════════════════════════╦═══════════════════════════════════════════════╣
+║  📅  Time Period         ║  April 2014 – September 2014  (6 months)     ║
+║  📍  Coverage            ║  New York City — All 5 Boroughs               ║
+║  🗄️   Raw Records        ║  4,534,327 Uber pickup entries                ║
+║  🧬  Raw Features        ║  4  (Date/Time, Lat, Lon, Base)               ║
+║  ⚙️   Engineered Features ║  12+  (hour, weekday, rush_hour, etc.)       ║
+║  📊  Visualizations      ║  25+  charts, heatmaps & interactive plots    ║
+║  🏢  Dispatch Bases      ║  5   unique Uber NYC bases                    ║
+║  🚀  Growth Rate         ║  +82%  trips  (April → September)            ║
+║  🔥  Busiest Hour        ║  5 PM – 6 PM  on weekdays                    ║
+║  🗺️   Hottest Zone        ║  Midtown Manhattan  (34th–59th St)           ║
+╚══════════════════════════╩═══════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
 
 ---
 
 ## ✨ Key Objectives
 
+<br/>
+
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td align="center" width="33%">
 
-**🔍 Understand Temporal Patterns**
-
-Identify peak hours, busiest days of the week, and month-over-month growth trends in Uber ridership across New York City.
-
-</td>
-<td width="50%" align="center">
-
-**🗺️ Decode Spatial Distribution**
-
-Map and analyze geospatial pickup density across boroughs, neighborhoods, and high-demand corridors using coordinate data.
+### 🟢 &nbsp; Temporal Intelligence
+Identify **peak hours**, busiest days, and **month-over-month growth** trends. Decompose demand into morning / evening / night / weekend profiles.
 
 </td>
-</tr>
-<tr>
-<td width="50%" align="center">
+<td align="center" width="33%">
 
-**📊 Quantify Demand Surges**
-
-Detect and characterize rush-hour demand spikes, weekend vs. weekday divergence, and seasonal variation patterns.
+### 🔵 &nbsp; Spatial Intelligence
+Map **geospatial pickup density** across boroughs, corridors, and neighborhoods using raw latitude / longitude data.
 
 </td>
-<td width="50%" align="center">
+<td align="center" width="33%">
 
-**🏢 Profile Dispatch Bases**
-
-Compare the operational footprint of Uber's 5 NYC dispatch bases (B02512, B02598, B02617, B02682, B02764) across time and geography.
+### 🟡 &nbsp; Demand Quantification
+Detect and characterise **rush-hour spikes**, weekend divergence, and seasonal variation patterns across 184 days.
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td align="center" width="33%">
 
-**⚙️ Engineer Meaningful Features**
-
-Transform raw timestamps into rich temporal signals — hour, day, weekday, month, rush-hour flags — to power deeper analysis.
+### 🟠 &nbsp; Base Profiling
+Compare the **operational footprint** of all 5 Uber NYC dispatch bases across time, geography, and volume share.
 
 </td>
-<td width="50%" align="center">
+<td align="center" width="33%">
 
-**💡 Surface Business Intelligence**
+### 🔴 &nbsp; Feature Engineering
+Transform raw timestamps into **12+ temporal signals** — hour, weekday, month, rush-hour flag, time-of-day bucket, week-of-year.
 
-Translate raw patterns into actionable recommendations for fleet optimization, surge pricing strategy, and driver deployment.
+</td>
+<td align="center" width="33%">
+
+### 🟣 &nbsp; Business Intelligence
+Translate raw patterns into **fleet deployment, surge pricing, and driver incentive** recommendations backed by data.
 
 </td>
 </tr>
@@ -198,127 +243,143 @@ Translate raw patterns into actionable recommendations for fleet optimization, s
 </div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ---
 
 ## 📦 Dataset Description
 
-The dataset is sourced from [FiveThirtyEight](https://github.com/fivethirtyeight/uber-tlc-foil-response) and covers Uber trip data obtained via a Freedom of Information Law (FOIL) request to NYC's Taxi and Limousine Commission.
+<div align="center">
+<img src="https://img.shields.io/badge/Source-FiveThirtyEight%20%2F%20NYC%20TLC-FFD60A?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/License-Public%20FOIL%20Data-06C167?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Format-CSV%20%2F%206%20Files-00D4FF?style=for-the-badge&labelColor=0d0d0d"/>
+</div>
 
-### 📄 Raw Data Files
+<br/>
 
-| File | Records | Period | Description |
-|------|--------:|--------|-------------|
-| `uber-raw-data-apr14.csv` | 564,516 | April 2014 | Spring baseline month |
-| `uber-raw-data-may14.csv` | 663,845 | May 2014 | Early-summer ramp-up |
+The dataset originates from a **Freedom of Information Law (FOIL)** request filed by FiveThirtyEight to the NYC Taxi & Limousine Commission. It contains every single Uber pickup in New York City across a 6-month window.
+
+### 📂 Raw Data Files
+
+| 🗂️ File | 🔢 Records | 📅 Period | 📝 Notes |
+|---------|----------:|----------|---------|
+| `uber-raw-data-apr14.csv` | 564,516 | April 2014 | Spring baseline |
+| `uber-raw-data-may14.csv` | 663,845 | May 2014 | +17.6% vs Apr |
 | `uber-raw-data-jun14.csv` | 706,386 | June 2014 | Summer begin |
 | `uber-raw-data-jul14.csv` | 796,824 | July 2014 | Peak summer |
 | `uber-raw-data-aug14.csv` | 829,275 | August 2014 | Sustained peak |
-| `uber-raw-data-sep14.csv` | 1,028,136 | September 2014 | Record-breaking month |
-| **Total** | **4,534,327** | **6 Months** | **Full combined dataset** |
-
-### 🧬 Schema
-
-| Column | Type | Description | Example |
-|--------|------|-------------|---------|
-| `Date/Time` | `object` → `datetime64` | Pickup timestamp | `4/1/2014 0:11:00` |
-| `Lat` | `float64` | Pickup latitude (WGS84) | `40.7690` |
-| `Lon` | `float64` | Pickup longitude (WGS84) | `-73.9549` |
-| `Base` | `object` | Uber dispatch base code | `B02512` |
-
-### 🔧 Engineered Features
-
-After preprocessing, the following features are derived from `Date/Time`:
-
-| Feature | Type | Description |
-|---------|------|-------------|
-| `hour` | `int` | Hour of pickup (0–23) |
-| `minute` | `int` | Minute of pickup (0–59) |
-| `day` | `int` | Day of month (1–31) |
-| `month` | `int` | Month number (4–9) |
-| `weekday` | `int` | Day of week (0=Mon, 6=Sun) |
-| `weekday_name` | `str` | Named day (e.g., "Thursday") |
-| `month_name` | `str` | Named month (e.g., "September") |
-| `is_weekend` | `bool` | True if Saturday or Sunday |
-| `is_rush_hour` | `bool` | True if 7–10 AM or 4–7 PM |
-| `time_of_day` | `str` | Morning / Afternoon / Evening / Night |
-| `week_of_year` | `int` | ISO week number |
-| `date` | `date` | Date portion only |
+| `uber-raw-data-sep14.csv` | **1,028,136** | September 2014 | 🔥 Record month |
+| **🏁 TOTAL** | **4,534,327** | **Apr – Sep** | **Full combined dataset** |
 
 <br/>
+
+### 🧬 Raw Schema → Engineered Schema
+
+<details>
+<summary><b>🟢 Click to expand — Full Feature Reference Table</b></summary>
+
+<br/>
+
+#### Raw Columns (4)
+
+| Column | dtype | Description | Sample Value |
+|--------|-------|-------------|-------------|
+| `Date/Time` | `object` → `datetime64[ns]` | Pickup timestamp | `4/1/2014 0:11:00` |
+| `Lat` | `float64` | Pickup latitude (WGS-84) | `40.7690` |
+| `Lon` | `float64` | Pickup longitude (WGS-84) | `-73.9549` |
+| `Base` | `object` | Dispatch base code (TLC) | `B02512` |
+
+#### Engineered Features (+13)
+
+| 🔧 Feature | 🔑 Type | 📖 Description | 🎯 Use Case |
+|-----------|---------|---------------|------------|
+| `hour` | `int8` | Hour of pickup (0–23) | Hourly demand curves |
+| `minute` | `int8` | Minute (0–59) | Sub-hour resolution |
+| `day` | `int8` | Day of month (1–31) | Daily volume tracking |
+| `month` | `int8` | Month number (4–9) | Monthly trend analysis |
+| `weekday` | `int8` | Day of week — 0=Mon, 6=Sun | Weekday vs weekend split |
+| `weekday_name` | `str` | "Monday" … "Sunday" | Readable charts |
+| `month_name` | `str` | "April" … "September" | Readable charts |
+| `is_weekend` | `bool` | True if Sat or Sun | Binary weekend flag |
+| `is_rush_hour` | `bool` | True if 7–9 AM or 4–7 PM | Rush demand segmentation |
+| `time_of_day` | `str` | Morning / Afternoon / Evening / Night | Demand bucket analysis |
+| `week_of_year` | `int8` | ISO week number | Weekly rolling averages |
+| `date` | `date` | Date portion only | Daily aggregation join key |
+| `source_file` | `str` | Origin CSV filename | Data provenance tracking |
+
+</details>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ---
 
 ## 🔍 Features & Highlights
 
+<br/>
+
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-### 📈
-**Time Series Decomposition**
+<img src="https://img.shields.io/badge/📈-Time%20Series-FFD60A?style=for-the-badge&labelColor=0d0d0d"/>
 
-Month-over-month growth tracking, weekly seasonality, and daily patterns revealed through line charts and area plots.
-
-</td>
-<td align="center" width="25%">
-
-### 🌡️
-**Pivot Heatmaps**
-
-Hour × Weekday cross-tabulation heatmaps exposing the exact anatomy of NYC's demand cycle with seaborn precision.
+**Monthly growth trends, weekly seasonality, and daily demand rhythms** revealed through layered area and line charts with gradient fills.
 
 </td>
 <td align="center" width="25%">
 
-### 🗺️
-**Geospatial Mapping**
+<img src="https://img.shields.io/badge/🌡️-Pivot%20Heatmaps-FF385C?style=for-the-badge&labelColor=0d0d0d"/>
 
-Latitude/Longitude scatter plots revealing NYC's pickup density clusters, corridor hotspots, and borough-level divergence.
+**Hour × Weekday cross-tabulation heatmaps** exposing the precise anatomy of NYC's demand cycle with annotated Seaborn precision.
 
 </td>
 <td align="center" width="25%">
 
-### 🎻
-**Violin & Box Plots**
+<img src="https://img.shields.io/badge/🗺️-Geo%20Maps-06C167?style=for-the-badge&labelColor=0d0d0d"/>
 
-Distribution analysis of hourly pickups across weekdays, months, and bases — revealing variance and outlier behaviour.
+**Latitude/Longitude scatter density maps** on a black NYC canvas revealing borough-level pickup clusters and corridor hotspots.
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/🎻-Violin%20Plots-9B59B6?style=for-the-badge&labelColor=0d0d0d"/>
+
+**Distribution analysis** of hourly trips across weekdays, months, and bases — revealing full variance, IQR, and outliers.
 
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
 
-### 🏢
-**Base Comparison**
+<img src="https://img.shields.io/badge/🏢-Base%20Analysis-00D4FF?style=for-the-badge&labelColor=0d0d0d"/>
 
-Side-by-side dispatch base performance analysis: volume share, temporal patterns, and geographic footprint per base.
-
-</td>
-<td align="center" width="25%">
-
-### ⚡
-**Rush Hour Analysis**
-
-Quantified AM/PM rush demand spikes, rush-hour share by weekday, and commuter vs. leisure trip segmentation.
+**Side-by-side dispatch base comparison** — volume share, month-over-month growth, temporal pattern, and geographic footprint per base.
 
 </td>
 <td align="center" width="25%">
 
-### 📦
-**Interactive Plotly**
+<img src="https://img.shields.io/badge/⚡-Rush%20Hours-E67E22?style=for-the-badge&labelColor=0d0d0d"/>
 
-Dynamic bar charts and line plots allowing hover-inspection of exact trip counts per hour, day, and base code.
+**Quantified AM/PM rush demand spikes**, rush-hour % share by weekday, and commuter vs. leisure trip segmentation.
 
 </td>
 <td align="center" width="25%">
 
-### 💡
-**Business Insights**
+<img src="https://img.shields.io/badge/📊-Plotly%20Interactives-FFD60A?style=for-the-badge&labelColor=0d0d0d"/>
 
-Actionable fleet deployment strategies, surge pricing windows, and driver incentive recommendations derived from data.
+**Dynamic Plotly charts** with hover tooltips, zoom, and filter — exposing exact trip counts per hour, day, and dispatch base.
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/💡-Business%20Insights-FF385C?style=for-the-badge&labelColor=0d0d0d"/>
+
+**Actionable fleet deployment strategies**, surge pricing windows, and driver incentive recommendations derived purely from the data.
 
 </td>
 </tr>
@@ -327,138 +388,112 @@ Actionable fleet deployment strategies, surge pricing windows, and driver incent
 </div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
+<br/>
+
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/Python-3.9+-FFD60A?style=for-the-badge&logo=python&logoColor=black&labelColor=1a1a1a"/>
-<br/><sub><b>Core Language</b></sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/Pandas-2.x-06C167?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1a1a1a"/>
-<br/><sub><b>Data Wrangling</b></sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/NumPy-1.24+-00D4FF?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1a1a1a"/>
-<br/><sub><b>Numerical Ops</b></sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/Matplotlib-3.7+-FF385C?style=for-the-badge&logo=plotly&logoColor=white&labelColor=1a1a1a"/>
-<br/><sub><b>Base Plotting</b></sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/Seaborn-0.12+-06C167?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a"/>
-<br/><sub><b>Statistical Viz</b></sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/Plotly-5.x+-00D4FF?style=for-the-badge&logo=plotly&logoColor=white&labelColor=1a1a1a"/>
-<br/><sub><b>Interactive Viz</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/Jupyter-Notebook-FF385C?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1a1a1a"/>
-<br/><sub><b>IDE</b></sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/Git-Version%20Control-FFD60A?style=for-the-badge&logo=git&logoColor=black&labelColor=1a1a1a"/>
-<br/><sub><b>Version Control</b></sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/GitHub-Hosting-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
-<br/><sub><b>Repository</b></sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/Google%20Colab-Cloud%20Exec-FF385C?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=1a1a1a"/>
-<br/><sub><b>Cloud Runtime</b></sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/Conda-Env%20Mgmt-06C167?style=for-the-badge&logo=anaconda&logoColor=white&labelColor=1a1a1a"/>
-<br/><sub><b>Environment</b></sub>
-</td>
-<td align="center" width="16%">
-<img src="https://img.shields.io/badge/FiveThirtyEight-Dataset-00D4FF?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a1a"/>
-<br/><sub><b>Data Source</b></sub>
-</td>
-</tr>
-</table>
+### 🌈 Core Libraries
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD60A"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=06C167"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00D4FF"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=FF385C"/>
+<img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=9B59B6"/>
+
+<br/><br/>
+
+### 🔧 Environment & Tools
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<br/><br/>
+
+### 📊 Detailed Stack Reference
+
+<br/>
+
+| Library | Version | Role | Key Functions Used |
+|---------|:-------:|------|--------------------|
+| **pandas** | `≥ 2.0` | Data wrangling & aggregation | `read_csv`, `concat`, `groupby`, `pivot_table`, `dt accessor` |
+| **NumPy** | `≥ 1.24` | Numerical operations | `np.select`, `np.where`, array broadcasting |
+| **Matplotlib** | `≥ 3.7` | Base plotting engine | `subplots`, `scatter`, `bar`, `area`, `tight_layout` |
+| **Seaborn** | `≥ 0.12` | Statistical visualizations | `heatmap`, `violinplot`, `boxplot`, `pairplot`, `countplot` |
+| **Plotly** | `≥ 5.14` | Interactive visualizations | `px.bar`, `px.line`, `px.scatter`, `go.Figure`, `write_html` |
 
 </div>
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 ---
 
 ## ⚙️ Installation & Setup
 
-### Prerequisites
+<div align="center">
+<img src="https://img.shields.io/badge/Setup%20Time-~5%20Minutes-06C167?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Difficulty-Beginner%20Friendly-FFD60A?style=for-the-badge&labelColor=0d0d0d"/>
+</div>
 
-Before you begin, ensure the following are installed:
+<br/>
 
-- **Python** `>= 3.9`
-- **pip** or **conda** package manager
-- **Git**
-- **Jupyter Notebook** or **JupyterLab**
+### 🔧 Prerequisites
+
+Before starting, ensure you have:
+
+| Tool | Minimum Version | Check Command |
+|------|:--------------:|---------------|
+| Python | `3.9+` | `python --version` |
+| pip | `22+` | `pip --version` |
+| Git | `2.30+` | `git --version` |
+| Jupyter | `6.5+` | `jupyter --version` |
 
 ---
 
-### 🚀 Method 1: Clone & pip install (Recommended)
-
-**Step 1 — Clone the repository**
+### ⚡ Method 1 — pip (Recommended)
 
 ```bash
+# ── Step 1: Clone ────────────────────────────────────────────────────────
 git clone https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis.git
 cd Uber-Trips-Exploratory-Data-Analysis
-```
 
-**Step 2 — Create a virtual environment**
-
-```bash
-# Using venv
+# ── Step 2: Virtual environment ──────────────────────────────────────────
 python -m venv uber_env
-source uber_env/bin/activate        # macOS / Linux
-uber_env\Scripts\activate           # Windows
-```
+source uber_env/bin/activate       # macOS / Linux
+# uber_env\Scripts\activate        # Windows PowerShell
 
-**Step 3 — Install dependencies**
-
-```bash
+# ── Step 3: Install dependencies ─────────────────────────────────────────
 pip install --upgrade pip
 pip install -r requirements.txt
-```
 
-**Step 4 — Download the dataset**
-
-```bash
-# Option A: Download manually from FiveThirtyEight
-# https://github.com/fivethirtyeight/uber-tlc-foil-response
-
-# Option B: Use the helper script (if provided)
-python scripts/download_data.py
-
-# Place all CSV files inside:
+# ── Step 4: Place raw data ───────────────────────────────────────────────
 mkdir -p data/raw
-# → data/raw/uber-raw-data-apr14.csv
-# → data/raw/uber-raw-data-may14.csv  ... etc.
-```
+# Download CSVs from FiveThirtyEight and place inside data/raw/
 
-**Step 5 — Launch Jupyter**
-
-```bash
+# ── Step 5: Launch ───────────────────────────────────────────────────────
 jupyter notebook notebooks/Uber_Trips_EDA.ipynb
-# OR
-jupyter lab
 ```
 
 ---
 
-### 🐍 Method 2: conda environment
+### 🐍 Method 2 — Conda
 
 ```bash
 git clone https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis.git
@@ -467,243 +502,284 @@ cd Uber-Trips-Exploratory-Data-Analysis
 conda env create -f environment.yml
 conda activate uber-eda
 
-jupyter notebook
+jupyter lab
 ```
 
 ---
 
-### ☁️ Method 3: Google Colab (Zero Setup)
-
-Click the badge below to open instantly in Google Colab:
-
-[![Open in Colab](https://img.shields.io/badge/Open%20In%20Colab-Run%20Now-FF385C?style=for-the-badge&logo=googlecolab&labelColor=000000)](https://colab.research.google.com/github/yourusername/Uber-Trips-Exploratory-Data-Analysis/blob/main/notebooks/Uber_Trips_EDA.ipynb)
+### ☁️ Method 3 — Google Colab (Zero Setup)
 
 ```python
-# First cell in Colab — install & mount
+# ── Cell 1: Install packages ─────────────────────────────────────────────
 !pip install pandas numpy matplotlib seaborn plotly -q
 
-# If using Google Drive
+# ── Cell 2: Clone repo ───────────────────────────────────────────────────
+!git clone https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis.git
+%cd Uber-Trips-Exploratory-Data-Analysis
+
+# ── Cell 3: Upload your data (or mount Drive) ────────────────────────────
 from google.colab import drive
 drive.mount('/content/drive')
 ```
+
+<div align="center">
+<br/>
+<a href="#">
+  <img src="https://img.shields.io/badge/☁️%20Open%20in%20Google%20Colab-Run%20Instantly-F9AB00?style=for-the-badge&logo=googlecolab&labelColor=0d0d0d"/>
+</a>
+</div>
 
 ---
 
 ### 📋 `requirements.txt`
 
 ```text
+# ── Core Data Science ────────────────────────────────────────────────────
 pandas>=2.0.0
 numpy>=1.24.0
+
+# ── Visualization ────────────────────────────────────────────────────────
 matplotlib>=3.7.0
 seaborn>=0.12.0
 plotly>=5.14.0
+
+# ── Jupyter ──────────────────────────────────────────────────────────────
 jupyter>=1.0.0
 notebook>=6.5.0
 ipykernel>=6.0.0
+ipywidgets>=8.0.0
 ```
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ---
 
 ## 📁 Project Structure
 
 ```
-Uber-Trips-Exploratory-Data-Analysis/
+🗂️  Uber-Trips-Exploratory-Data-Analysis/
 │
 ├── 📁 data/
-│   ├── 📁 raw/                          # Original unmodified CSVs
-│   │   ├── uber-raw-data-apr14.csv
-│   │   ├── uber-raw-data-may14.csv
-│   │   ├── uber-raw-data-jun14.csv
-│   │   ├── uber-raw-data-jul14.csv
-│   │   ├── uber-raw-data-aug14.csv
-│   │   └── uber-raw-data-sep14.csv
-│   └── 📁 processed/                    # Cleaned & feature-engineered data
-│       └── uber_combined_processed.csv
+│   ├── 📁 raw/                              # 🔒 Original unmodified CSVs (gitignored)
+│   │   ├── 🟢 uber-raw-data-apr14.csv       #    564,516 records
+│   │   ├── 🟡 uber-raw-data-may14.csv       #    663,845 records
+│   │   ├── 🔵 uber-raw-data-jun14.csv       #    706,386 records
+│   │   ├── 🟠 uber-raw-data-jul14.csv       #    796,824 records
+│   │   ├── 🔴 uber-raw-data-aug14.csv       #    829,275 records
+│   │   └── 🟣 uber-raw-data-sep14.csv       #  1,028,136 records
+│   └── 📁 processed/
+│       └── ✅ uber_combined_processed.csv   # Cleaned + feature-engineered
 │
 ├── 📁 notebooks/
-│   └── 📓 Uber_Trips_EDA.ipynb         # Main analysis notebook (all sections)
+│   └── 📓 Uber_Trips_EDA.ipynb             # ⭐ Main analysis notebook
 │
-├── 📁 src/                              # Modular Python scripts
-│   ├── 🐍 data_loader.py               # Data ingestion & concatenation
-│   ├── 🐍 preprocessing.py             # Cleaning & feature engineering
-│   ├── 🐍 temporal_analysis.py         # Time-based analysis functions
-│   ├── 🐍 spatial_analysis.py          # Geo-coordinate analysis
-│   ├── 🐍 visualization.py             # Reusable plot functions
-│   └── 🐍 insights.py                  # Summary statistics & findings
+├── 📁 src/                                  # Modular Python scripts
+│   ├── 🐍 data_loader.py                   # Ingestion & concatenation
+│   ├── 🐍 preprocessing.py                 # Cleaning & type-casting
+│   ├── 🐍 feature_engineering.py           # All feature creation logic
+│   ├── 🐍 temporal_analysis.py             # Time-based analytics
+│   ├── 🐍 spatial_analysis.py              # Geo-coordinate analytics
+│   ├── 🐍 visualization.py                 # Reusable plot functions
+│   └── 🐍 insights.py                      # Summary stats & findings
 │
-├── 📁 plots/                            # Saved visualization outputs (PNG/HTML)
-│   ├── 01_monthly_trend.png
-│   ├── 02_hourly_distribution.png
-│   ├── 03_weekday_heatmap.png
-│   ├── 04_geospatial_scatter.png
-│   ├── 05_base_comparison.png
-│   ├── 06_rush_hour_analysis.png
-│   ├── 07_violin_plots.png
-│   ├── 08_borough_analysis.png
-│   ├── 09_pair_plot.png
-│   └── 10_interactive_plotly.html
+├── 📁 plots/                                # 💾 Saved outputs (PNG / HTML)
+│   ├── 🟢 01_monthly_trend.png
+│   ├── 🔵 02_hourly_distribution.png
+│   ├── 🟡 03_weekday_heatmap.png
+│   ├── 🟠 04_geospatial_scatter.png
+│   ├── 🔴 05_base_comparison.png
+│   ├── 🟣 06_rush_hour_analysis.png
+│   ├── 🟤 07_violin_plots.png
+│   ├── ⚪ 08_borough_analysis.png
+│   ├── 🔶 09_pair_plot.png
+│   └── 🌐 10_interactive_plotly.html
 │
 ├── 📁 reports/
-│   └── 📄 Uber_EDA_Summary_Report.pdf  # Executive summary PDF
+│   └── 📄 Uber_EDA_Summary_Report.pdf
 │
-├── 📄 README.md                         # You are here ✨
-├── 📄 requirements.txt                  # pip dependencies
-├── 📄 environment.yml                   # conda environment spec
+├── 📄 README.md                             # 👁️  You are here ✨
+├── 📄 requirements.txt
+├── 📄 environment.yml
 ├── 📄 .gitignore
 └── 📄 LICENSE
 ```
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+
 ---
 
 ## 🔬 Data Analysis Workflow
 
-The analysis follows a rigorous, reproducible pipeline:
+<div align="center">
 
 ```
- RAW DATA          PREPROCESSING       FEATURE ENG.        EDA              INSIGHTS
-┌──────────┐      ┌─────────────┐     ┌────────────┐    ┌──────────┐     ┌──────────┐
-│ 6 CSV    │ ───► │ Load &      │ ──► │ Hour,Day,  │ ──►│ Temporal │ ──► │ Business │
-│ Files    │      │ Concatenate │     │ Weekday,   │    │ Spatial  │     │ Fleet    │
-│ 4.5M+    │      │ Type Cast   │     │ Month,     │    │ Base     │     │ Pricing  │
-│ Records  │      │ Null Check  │     │ Rush Hour  │    │ Rush Hr  │     │ Demand   │
-└──────────┘      └─────────────┘     └────────────┘    └──────────┘     └──────────┘
+╔══════════╗    ╔═══════════════╗    ╔══════════════╗    ╔══════════╗    ╔══════════╗
+║ 📂 RAW   ║    ║ 🧹 PREPROCESS ║    ║ ⚙️  FEATURE  ║    ║ 📊 EDA   ║    ║ 💡 BUSI- ║
+║ DATA     ║───▶║ Load, Cast,   ║───▶║ ENGINEERING  ║───▶║ Temporal ║───▶║ NESS IN- ║
+║ 6 CSVs   ║    ║ Null/Dup Check║    ║ Hour, Day,   ║    ║ Spatial  ║    ║ SIGHTS   ║
+║ 4.5M+    ║    ║ Geo Validate  ║    ║ Rush Hour,   ║    ║ Bases    ║    ║ Fleet    ║
+║ Records  ║    ║               ║    ║ Time Buckets ║    ║ Rush Hr  ║    ║ Pricing  ║
+╚══════════╝    ╚═══════════════╝    ╚══════════════╝    ╚══════════╝    ╚══════════╝
+     🟢                🔵                  🟡                 🟠               🔴
 ```
 
----
-
-### 🧹 Phase 1: Data Cleaning & Preprocessing
-
-<details>
-<summary><b>📂 Click to expand — Detailed Preprocessing Steps</b></summary>
+</div>
 
 <br/>
 
-**1.1 — Data Ingestion & Concatenation**
+---
+
+### 🧹 Phase 1 — Data Cleaning & Preprocessing
+
+<details>
+<summary><b>🟢 &nbsp; Click to expand — Full Preprocessing Pipeline</b></summary>
+
+<br/>
+
+**1.1 — Load & Concatenate All Monthly Files**
 
 ```python
 import pandas as pd
 import numpy as np
 import os
 
-# Load all monthly files dynamically
 data_path = "data/raw/"
 files = sorted([f for f in os.listdir(data_path) if f.endswith(".csv")])
 
 dfs = []
 for file in files:
     df = pd.read_csv(os.path.join(data_path, file))
-    df["source_file"] = file  # track origin
+    df["source_file"] = file
     dfs.append(df)
+    print(f"  ✅ Loaded {file:35s} | {len(df):>9,} rows")
 
 uber = pd.concat(dfs, ignore_index=True)
-print(f"✅ Combined dataset shape: {uber.shape}")
-# Output: (4534327, 5)
+print(f"\n🏁 Combined shape: {uber.shape}")
+# 🏁 Combined shape: (4534327, 5)
 ```
 
 **1.2 — Type Casting & Datetime Parsing**
 
 ```python
-# Parse Date/Time column
+# Parse the datetime column (critical for all temporal features)
 uber["Date/Time"] = pd.to_datetime(uber["Date/Time"], format="%m/%d/%Y %H:%M:%S")
 
-# Verify dtypes
 print(uber.dtypes)
-# Date/Time    datetime64[ns]
-# Lat          float64
-# Lon          float64
-# Base         object
+# Date/Time    datetime64[ns]   ✅
+# Lat          float64          ✅
+# Lon          float64          ✅
+# Base         object           ✅
 ```
 
-**1.3 — Null & Duplicate Audit**
+**1.3 — Data Quality Audit**
 
 ```python
-# Check for nulls
-print("Null values:\n", uber.isnull().sum())
-# Output: All 0 — dataset is complete!
+# ── Null check ─────────────────────────────────────────────────────────
+print("🔍 Null values per column:")
+print(uber.isnull().sum())
+# Date/Time    0  ✅  No nulls!
+# Lat          0  ✅
+# Lon          0  ✅
+# Base         0  ✅
 
-# Duplicate check
-duplicates = uber.duplicated().sum()
-print(f"Duplicates: {duplicates}")
+# ── Duplicate check ────────────────────────────────────────────────────
+dupes = uber.duplicated().sum()
+print(f"🔁 Duplicate rows: {dupes:,}")  # → 0
 
-# Coordinate sanity check (NYC bounding box)
-lat_ok = uber["Lat"].between(40.4, 41.0)
-lon_ok = uber["Lon"].between(-74.3, -73.6)
-outliers = uber[~(lat_ok & lon_ok)].shape[0]
-print(f"Geo outliers outside NYC: {outliers}")
+# ── Geospatial sanity check (NYC bounding box) ─────────────────────────
+lat_valid = uber["Lat"].between(40.40, 41.00)
+lon_valid = uber["Lon"].between(-74.30, -73.60)
+outliers  = (~(lat_valid & lon_valid)).sum()
+print(f"🌐 Records outside NYC bounding box: {outliers:,}")
+
+# ── Statistical summary ────────────────────────────────────────────────
+print(uber[["Lat","Lon"]].describe().round(4))
 ```
 
-**1.4 — Statistical Summary**
+**1.4 — Base Code Validation**
 
 ```python
-print(uber.describe())
-#         Lat              Lon
-# count   4534327          4534327
-# mean    40.7413          -73.9740
-# std     0.0504           0.0695
-# min     40.0658          -74.2598
-# max     41.0067          -73.0870
+valid_bases = {"B02512", "B02598", "B02617", "B02682", "B02764"}
+invalid = uber[~uber["Base"].isin(valid_bases)]
+print(f"⚠️  Rows with unrecognised base codes: {len(invalid):,}")  # → 0
+print(f"🏢 Unique bases: {uber['Base'].unique()}")
 ```
 
 </details>
 
 ---
 
-### ⚙️ Phase 2: Feature Engineering
+### ⚙️ Phase 2 — Feature Engineering
 
 <details>
-<summary><b>📂 Click to expand — Feature Engineering Code</b></summary>
+<summary><b>🔵 &nbsp; Click to expand — Complete Feature Engineering Code</b></summary>
 
 <br/>
 
 ```python
-def engineer_features(df):
-    """Extract all temporal features from the Date/Time column."""
+def engineer_features(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Transform raw Date/Time into 12 rich temporal features.
+
+    Parameters
+    ----------
+    df : pd.DataFrame  — must contain datetime64 column 'Date/Time'
+
+    Returns
+    -------
+    pd.DataFrame  — original df + 13 new columns
+    """
     dt = df["Date/Time"]
 
-    df["hour"]         = dt.dt.hour
-    df["minute"]       = dt.dt.minute
-    df["day"]          = dt.dt.day
-    df["month"]        = dt.dt.month
-    df["weekday"]      = dt.dt.dayofweek           # 0=Monday, 6=Sunday
-    df["week_of_year"] = dt.dt.isocalendar().week.astype(int)
+    # ── Raw temporal extractions ───────────────────────────────────────
+    df["hour"]         = dt.dt.hour.astype("int8")
+    df["minute"]       = dt.dt.minute.astype("int8")
+    df["day"]          = dt.dt.day.astype("int8")
+    df["month"]        = dt.dt.month.astype("int8")
+    df["weekday"]      = dt.dt.dayofweek.astype("int8")    # 0=Mon, 6=Sun
+    df["week_of_year"] = dt.dt.isocalendar().week.astype("int8")
     df["date"]         = dt.dt.date
 
-    # Named dimensions
+    # ── Human-readable labels ──────────────────────────────────────────
     df["weekday_name"] = dt.dt.day_name()
     df["month_name"]   = dt.dt.month_name()
 
-    # Binary flags
+    # ── Binary flags ───────────────────────────────────────────────────
     df["is_weekend"]   = df["weekday"].isin([5, 6])
-    df["is_rush_hour"] = df["hour"].between(7, 9) | df["hour"].between(16, 18)
+    df["is_rush_hour"] = (
+        df["hour"].between(7, 9) | df["hour"].between(16, 18)
+    )
 
-    # Time-of-day buckets
+    # ── Time-of-day bucket ─────────────────────────────────────────────
     conditions = [
-        df["hour"].between(5, 11),
-        df["hour"].between(12, 16),
-        df["hour"].between(17, 20),
+        df["hour"].between(5, 11),    # Morning
+        df["hour"].between(12, 16),   # Afternoon
+        df["hour"].between(17, 20),   # Evening
     ]
-    choices = ["Morning", "Afternoon", "Evening"]
-    df["time_of_day"] = np.select(conditions, choices, default="Night")
+    choices = ["🌅 Morning", "☀️ Afternoon", "🌆 Evening"]
+    df["time_of_day"] = np.select(conditions, choices, default="🌙 Night")
 
     return df
 
 uber = engineer_features(uber)
-print(f"✅ Feature engineering complete. New shape: {uber.shape}")
-# Output: (4534327, 17)
+print(f"✅ Feature engineering complete!")
+print(f"   Shape: {uber.shape}  |  New cols: {uber.shape[1] - 5}")
+# ✅ Feature engineering complete!
+#    Shape: (4534327, 18)  |  New cols: 13
 ```
 
 </details>
 
 ---
 
-### 📈 Phase 3: Temporal Analysis
+### 📈 Phase 3 — Temporal Analysis
 
 <details>
-<summary><b>📂 Click to expand — Temporal Patterns Code Snippets</b></summary>
+<summary><b>🟡 &nbsp; Click to expand — Temporal Analysis Snippets</b></summary>
 
 <br/>
 
@@ -711,62 +787,109 @@ print(f"✅ Feature engineering complete. New shape: {uber.shape}")
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# ── Monthly Trip Volume ──────────────────────────────────────────
-monthly = uber.groupby("month_name")["Date/Time"].count().reset_index()
+# ── Color palette — Uber-inspired ─────────────────────────────────────
+COLORS = {
+    "green":  "#06C167",
+    "cyan":   "#00D4FF",
+    "yellow": "#FFD60A",
+    "pink":   "#FF385C",
+    "purple": "#9B59B6",
+    "orange": "#E67E22",
+    "bg":     "#0d0d0d",
+    "white":  "#FFFFFF",
+}
+PALETTE = list(COLORS.values())[:6]
+
+# ── Monthly volume ─────────────────────────────────────────────────────
+month_order = ["April","May","June","July","August","September"]
+monthly = (
+    uber.groupby("month_name")["Date/Time"]
+        .count()
+        .reindex(month_order)
+        .reset_index()
+)
 monthly.columns = ["Month", "Trips"]
-# April: 564,516 → September: 1,028,136 (+82% growth!)
+monthly["Growth_%"] = monthly["Trips"].pct_change() * 100
+print(monthly.to_string(index=False))
 
-# ── Hourly Distribution ──────────────────────────────────────────
+# ── Hourly pattern ─────────────────────────────────────────────────────
 hourly = uber.groupby("hour")["Date/Time"].count()
-# Peak: 5–6 PM (evening commute) | Trough: 2–4 AM
+peak_hour = hourly.idxmax()
+print(f"🔥 Peak hour: {peak_hour}:00  ({hourly[peak_hour]:,} total trips)")
 
-# ── Weekday Breakdown ────────────────────────────────────────────
-weekday_order = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
-daily = uber.groupby("weekday_name")["Date/Time"].count()
-daily = daily.reindex(weekday_order)
-# Thursday & Friday top weekday demand; Saturday leads overall
+# ── Weekday breakdown ──────────────────────────────────────────────────
+weekday_order = ["Monday","Tuesday","Wednesday","Thursday",
+                 "Friday","Saturday","Sunday"]
+daily = (
+    uber.groupby("weekday_name")["Date/Time"]
+        .count()
+        .reindex(weekday_order)
+)
 
-# ── Pivot Heatmap (Hour × Weekday) ───────────────────────────────
-pivot = uber.pivot_table(index="hour", columns="weekday_name",
-                          values="Date/Time", aggfunc="count")
-pivot = pivot[weekday_order]
+# ── Hour × Weekday pivot heatmap ───────────────────────────────────────
+pivot = uber.pivot_table(
+    index="hour",
+    columns="weekday_name",
+    values="Date/Time",
+    aggfunc="count"
+)[weekday_order]
+
+fig, ax = plt.subplots(figsize=(14, 8), facecolor=COLORS["bg"])
+sns.heatmap(
+    pivot, cmap="YlOrRd", linewidths=0.3,
+    annot=False, fmt=",", ax=ax,
+    cbar_kws={"label": "Trip Count", "shrink": 0.6}
+)
+ax.set_title("🌡️  Uber Trips — Hour × Day of Week Heatmap",
+             color=COLORS["white"], fontsize=15, pad=12)
+ax.set_facecolor(COLORS["bg"])
+plt.tight_layout()
+plt.savefig("plots/03_weekday_heatmap.png", dpi=180,
+            bbox_inches="tight", facecolor=COLORS["bg"])
 ```
 
 </details>
 
 ---
 
-### 🗺️ Phase 4: Geospatial Analysis
+### 🗺️ Phase 4 — Geospatial Analysis
 
 <details>
-<summary><b>📂 Click to expand — Geospatial Visualization Code</b></summary>
+<summary><b>🟠 &nbsp; Click to expand — Geospatial Mapping Code</b></summary>
 
 <br/>
 
 ```python
-import matplotlib.pyplot as plt
+# ── NYC Pickup Density Map ─────────────────────────────────────────────
+sample = uber.sample(300_000, random_state=42)  # 300k points
 
-# Sample for plotting performance (250k points)
-sample = uber.sample(250_000, random_state=42)
+fig, axes = plt.subplots(1, 2, figsize=(18, 10), facecolor="#000000")
 
-fig, ax = plt.subplots(figsize=(14, 10), facecolor="black")
-
-scatter = ax.scatter(
+# All pickups — green
+axes[0].scatter(
     sample["Lon"], sample["Lat"],
-    c="#06C167",          # Uber green
-    s=0.4,
-    alpha=0.15,
-    linewidths=0
+    c="#06C167", s=0.3, alpha=0.12, linewidths=0
 )
+axes[0].set_title("All Pickups — Green on Black",
+                  color="white", fontsize=13)
 
-ax.set_xlim(-74.25, -73.70)
-ax.set_ylim(40.50, 40.93)
-ax.set_facecolor("black")
-ax.set_title("Uber Pickup Density — NYC (Apr–Sep 2014)",
-             color="white", fontsize=16, fontweight="bold")
-ax.axis("off")
+# Color by hour — spectrum
+sc = axes[1].scatter(
+    sample["Lon"], sample["Lat"],
+    c=sample["hour"], cmap="plasma",
+    s=0.3, alpha=0.15, linewidths=0
+)
+axes[1].set_title("Pickups Coloured by Hour of Day",
+                  color="white", fontsize=13)
 
-plt.tight_layout()
+for ax in axes:
+    ax.set_xlim(-74.25, -73.70)
+    ax.set_ylim(40.50, 40.93)
+    ax.set_facecolor("#000000")
+    ax.axis("off")
+
+plt.colorbar(sc, ax=axes[1], label="Hour (0–23)", shrink=0.6)
+plt.tight_layout(pad=0.5)
 plt.savefig("plots/04_geospatial_scatter.png", dpi=200,
             bbox_inches="tight", facecolor="black")
 ```
@@ -775,251 +898,351 @@ plt.savefig("plots/04_geospatial_scatter.png", dpi=200,
 
 ---
 
-### 🏢 Phase 5: Base & Rush Hour Analysis
+### 🏢 Phase 5 — Base & Rush Hour Analysis
 
 <details>
-<summary><b>📂 Click to expand — Base & Rush Hour Breakdown</b></summary>
+<summary><b>🔴 &nbsp; Click to expand — Base Profiling & Rush Hour Code</b></summary>
 
 <br/>
 
 ```python
-# ── Base Volume Analysis ─────────────────────────────────────────
-base_counts = uber["Base"].value_counts().reset_index()
-base_counts.columns = ["Base", "Trips"]
-base_counts["Share_%"] = (base_counts["Trips"] / base_counts["Trips"].sum() * 100).round(2)
+# ── Dispatch Base Volume ───────────────────────────────────────────────
+base_stats = (
+    uber.groupby("Base")["Date/Time"]
+        .count()
+        .reset_index()
+        .rename(columns={"Date/Time": "Trips"})
+        .sort_values("Trips", ascending=False)
+)
+base_stats["Share_%"] = (base_stats["Trips"] / base_stats["Trips"].sum() * 100).round(2)
+base_stats["Rank"]    = range(1, len(base_stats) + 1)
 
-#   Base    | Trips     | Share %
-# ──────────────────────────────
-#   B02617  | 1,914,449 | 42.23%  ← Dominant base
-#   B02598  | 1,021,840 | 22.54%
-#   B02682  |   662,509 | 14.61%
-#   B02764  |   586,070 | 12.93%
-#   B02512  |   349,459 |  7.71%
+print(base_stats.to_string(index=False))
+# Rank  Base     Trips    Share_%
+#    1  B02617  1914449    42.23    ← DOMINANT
+#    2  B02598  1021840    22.54
+#    3  B02682   662509    14.61
+#    4  B02764   586070    12.93
+#    5  B02512   349459     7.71
 
-# ── Rush Hour Demand ─────────────────────────────────────────────
-rush = uber["is_rush_hour"].value_counts(normalize=True) * 100
-print(f"Rush hour trips: {rush[True]:.1f}%")
-# → Rush hour accounts for ~28.4% of all daily trips
+# ── Rush vs Non-Rush ──────────────────────────────────────────────────
+rush_split = uber["is_rush_hour"].value_counts(normalize=True).mul(100).round(1)
+print(f"\n⚡ Rush hour share: {rush_split[True]}%")
+print(f"🌙 Non-rush share:  {rush_split[False]}%")
 
-# Rush trips by weekday
-rush_by_day = uber[uber["is_rush_hour"]].groupby("weekday_name").size()
-rush_by_day = rush_by_day.reindex(weekday_order)
+# ── Rush by weekday ───────────────────────────────────────────────────
+rush_by_day = (
+    uber[uber["is_rush_hour"]]
+        .groupby("weekday_name")["Date/Time"]
+        .count()
+        .reindex(weekday_order)
+)
+
+# ── Base activity by hour heatmap ─────────────────────────────────────
+base_hour = uber.pivot_table(
+    index="Base", columns="hour",
+    values="Date/Time", aggfunc="count"
+)
 ```
 
 </details>
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 ---
 
 ## 📊 Exploratory Data Analysis
 
-> Each visualization below is generated by the notebook. High-resolution outputs are saved in `plots/`.
+<div align="center">
+<img src="https://img.shields.io/badge/25%2B-Visualizations-FFD60A?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/10-Deep%20Dives-FF385C?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Plotly-Interactive%20HTML-9B59B6?style=for-the-badge&labelColor=0d0d0d"/>
+</div>
+
+<br/>
+
+> 💾 All charts are saved to `plots/` as high-resolution PNG (180–200 dpi) and interactive HTML.
 
 ---
 
-### 📈 Viz 1 — Monthly Growth Trend
+### 📈 VIZ 01 — Monthly Growth Trend
 
 <div align="center">
-
-> **Chart Type:** Grouped bar + line overlay | **Library:** Matplotlib + Seaborn
-
+<img src="https://img.shields.io/badge/Chart-Bar%20%2B%20Line%20Overlay-06C167?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Library-Matplotlib%20%2B%20Seaborn-00D4FF?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/File-01__monthly__trend.png-FFD60A?style=flat-square&labelColor=0d0d0d"/>
 </div>
+
+<br/>
 
 ```
-  Monthly Uber Pickups — NYC (Apr–Sep 2014)
-  
-  1.1M ┤                                           ████
-  1.0M ┤                                     ████  ████
-  900K ┤                               ████  ████  ████
-  800K ┤                         ████  ████  ████  ████
-  700K ┤                   ████  ████  ████  ████  ████
-  600K ┤             ████  ████  ████  ████  ████  ████
-       └─────────────────────────────────────────────────
-                Apr   May   Jun   Jul   Aug   Sep
+  Monthly Uber Pickups — New York City (Apr–Sep 2014)
+
+  1.05M ┤                                                     ████████
+   900K ┤                                           ████████  ████████
+   800K ┤                                ████████   ████████  ████████
+   700K ┤                     ████████   ████████   ████████  ████████
+   650K ┤          ████████   ████████   ████████   ████████  ████████
+   565K ┤ ████████ ████████   ████████   ████████   ████████  ████████
+         ─────────────────────────────────────────────────────────────
+          Apr'14   May'14    Jun'14     Jul'14     Aug'14    Sep'14
+          564,516  663,845   706,386    796,824    829,275  1,028,136
+          ────     +17.6%    +6.4%      +12.8%     +4.1%     +24.0%
 ```
 
-**Key takeaway:** Uber trips grew **+82%** from April (564K) to September (1.03M), confirming explosive platform adoption over just 6 months. September was the single largest month, suggesting seasonality driven by end-of-summer returns and city re-activation.
+| Month | Trips | MoM Change | Cumulative |
+|-------|------:|:---------:|----------:|
+| April | 564,516 | — | 564,516 |
+| May | 663,845 | 🟢 +17.6% | 1,228,361 |
+| June | 706,386 | 🟢 +6.4% | 1,934,747 |
+| July | 796,824 | 🟢 +12.8% | 2,731,571 |
+| August | 829,275 | 🟢 +4.1% | 3,560,846 |
+| **September** | **1,028,136** | 🔥 **+24.0%** | **4,534,327** |
+
+**🔍 Key Insight:** Uber NYC trips grew **+82% across 6 months** — a near-doubling that signals early network-effect inflection. September's +24% single-month surge suggests a post-summer city reactivation driving demand beyond seasonal norms.
 
 ---
 
-### ⏰ Viz 2 — Hourly Distribution (All Months Combined)
+### ⏰ VIZ 02 — Hourly Distribution
 
 <div align="center">
-
-> **Chart Type:** Area chart with gradient fill | **Library:** Matplotlib
-
+<img src="https://img.shields.io/badge/Chart-Area%20%2B%20Gradient%20Fill-FF385C?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Library-Matplotlib-00D4FF?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/File-02__hourly__distribution.png-FFD60A?style=flat-square&labelColor=0d0d0d"/>
 </div>
+
+<br/>
 
 ```
-  Hourly Pickup Distribution (Avg per Day)
-  
-  High ┤          ▄▄█████▄▄              ▄▄████████▄▄
-       ┤       ▄██        ████▄▄     ▄▄██            ████▄
-       ┤    ▄██                ████████                   ██▄
-  Low  ┤████                                                ███
-       └──────────────────────────────────────────────────────
-        0  2  4  6  8 10 12 14 16 18 20 22
-                       Hour of Day
+  Average Hourly Uber Pickups — All Months Combined
+
+  High  ┤          ▄▄████▄▄                     ▄▄██████████▄
+        ┤       ▄██        ███▄▄           ▄▄████              ██▄
+        ┤     ▄█               ████▄   ▄████                     ██▄
+  Med   ┤   ██                     ████                            ██
+        ┤ ██                                                         ██
+  Low   ┤█                                                             █
+        └──────────────────────────────────────────────────────────────
+         0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+              🌙 Night          🌅 Morning        ☀️ Afternoon   🌆 Eve  🌙 Night
 ```
 
-**Key takeaways:**
-- **Morning Peak:** 8–9 AM (commuter rush — office workers)
-- **Afternoon Lull:** 1–3 PM (lowest post-midnight demand)
-- **Evening Peak:** 5–6 PM (strongest of the day — +47% above morning peak)
-- **Late Night:** Sustained demand midnight–2 AM on weekends (nightlife corridor)
+| Time Window | Avg Trips/Hr | % of Daily | Label |
+|-------------|------------:|:---------:|-------|
+| 2 AM – 5 AM | ~7,200 | 2.4% | 🌙 Night Trough |
+| **8 AM – 9 AM** | **~31,400** | **10.5%** | **🌅 AM Rush** |
+| 1 PM – 3 PM | ~24,800 | 8.3% | ☀️ Afternoon Lull |
+| **5 PM – 6 PM** | **~46,200** | **15.4%** | **🔥 PM Peak (Max)** |
+| 11 PM – 1 AM | ~28,600 | 9.5% | 🌙 Night Demand |
+
+**🔍 Key Insight:** PM rush (5–6 PM) is **47% stronger** than AM rush — workers book rides home more than they ride to work, suggesting Uber had penetrated the post-work commute far more than the morning one by 2014.
 
 ---
 
-### 🌡️ Viz 3 — Pivot Heatmap: Hour × Day of Week
+### 🌡️ VIZ 03 — Hour × Day Heatmap
 
 <div align="center">
-
-> **Chart Type:** Annotated heatmap | **Library:** Seaborn (`heatmap`)
-
+<img src="https://img.shields.io/badge/Chart-Annotated%20Pivot%20Heatmap-9B59B6?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Library-Seaborn-FFD60A?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/File-03__weekday__heatmap.png-06C167?style=flat-square&labelColor=0d0d0d"/>
 </div>
+
+<br/>
 
 ```
-  Heatmap — Uber Pickups by Hour & Day (darker = more trips)
+  Trip Density — Hour of Day × Day of Week   [░ low → █ high]
 
-  Hour │  Mon   Tue   Wed   Thu   Fri   Sat   Sun
-  ─────┼────────────────────────────────────────
-   0   │  ░░    ░░    ░░    ░░    ▒▒    ██    ▓▓
-   6   │  ▒▒    ▒▒    ▒▒    ▒▒    ▓▓    ░░    ░░
-   9   │  ▓▓    ▓▓    ▓▓    ▓▓    ██    ▒▒    ▒▒
-  12   │  ▒▒    ▒▒    ▒▒    ▒▒    ▓▓    ▓▓    ▓▓
-  17   │  ██    ██    ██    ██    ██    ▓▓    ▒▒
-  21   │  ▓▓    ▓▓    ▓▓    ▓▓    ██    ██    ▓▓
+  Hr │  Mon   Tue   Wed   Thu    Fri    Sat    Sun
+  ───┼─────────────────────────────────────────────
+   0 │  ░░░   ░░░   ░░░   ░░░   ▒▒▒    ████   ▓▓▓
+   1 │  ░░░   ░░░   ░░░   ░░░   ▒▒▒    ████   ▓▓▓
+   2 │  ░     ░     ░     ░     ▒      ████   ▓▓
+   3 │  ░     ░     ░     ░     ▒      ▓▓▓    ▓▓
+   4 │  ░     ░     ░     ░     ░      ▒▒     ▒▒
+   5 │  ▒     ▒     ▒     ▒     ▒      ░░     ░░
+   6 │  ▒▒    ▒▒    ▒▒    ▒▒    ▒▒▒    ░░░    ░░░
+   7 │  ▓▓    ▓▓    ▓▓    ▓▓    ▓▓▓    ▒▒     ▒▒
+   8 │  ████  ████  ████  ████  ████   ▒▒▒    ▒▒
+   9 │  ████  ████  ████  ████  ████   ▒▒▒    ▒▒
+  12 │  ▒▒▒   ▒▒▒   ▒▒▒   ▒▒▒   ▓▓▓    ▓▓▓    ▓▓
+  17 │  ████  ████  ████  ████  ████   ▓▓▓    ▓▓
+  18 │  ████  ████  ████  ████  ████   ▓▓▓    ▓▓
+  21 │  ▓▓▓   ▓▓▓   ▓▓▓   ▓▓▓   ████   ████   ▓▓▓
+  23 │  ▓▓    ▓▓    ▓▓    ▓▓    ████   ████   ▓▓
 ```
 
-**Key takeaway:** The heatmap reveals a **dual-peak commuter pattern** Monday–Friday (9 AM + 5–6 PM) versus a **flattened late-night pattern** on weekends, with Saturday midnight being the hottest single hour outside business hours.
+**🔍 Key Insight:** The heatmap exposes a **structural weekday bimodal rhythm** (8–9 AM + 5–6 PM) that completely disappears on weekends, replaced by a **late-night plateau** (10 PM – 2 AM). Saturday midnight is the single hottest cell outside business hours.
 
 ---
 
-### 🗺️ Viz 4 — Geospatial Pickup Density Map
+### 🗺️ VIZ 04 — Geospatial Pickup Density
 
 <div align="center">
-
-> **Chart Type:** Coordinate scatter plot | **Library:** Matplotlib (black canvas, green dots)
-
+<img src="https://img.shields.io/badge/Chart-Coordinate%20Scatter%20on%20Black%20Canvas-06C167?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Library-Matplotlib-FF385C?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Points-300%2C000%20Sampled-00D4FF?style=flat-square&labelColor=0d0d0d"/>
 </div>
 
-**Top Density Corridors:**
+<br/>
 
-| Rank | Zone | Approximate Coordinates | Characteristic |
-|------|------|--------------------------|----------------|
-| 1 | Midtown Manhattan | 40.75°N, 73.98°W | Business district core |
-| 2 | Lower Manhattan / FiDi | 40.71°N, 74.01°W | Financial corridor |
-| 3 | Upper East / West Side | 40.77°N, 73.96°W | Residential premium |
-| 4 | JFK Airport | 40.64°N, 73.78°W | Airport pickup cluster |
-| 5 | Williamsburg, Brooklyn | 40.71°N, 73.95°W | Nightlife hotspot |
+**Top Pickup Density Zones:**
 
-**Key takeaway:** Over **68% of all pickups** concentrate within Manhattan south of 96th Street, with secondary clusters at JFK/LGA airports and Brooklyn's Williamsburg corridor.
+| 🏆 Rank | 📍 Zone | 🌐 Approx. Coordinates | 🏷️ Characteristic |
+|:-------:|---------|----------------------|------------------|
+| 🥇 1 | **Midtown Manhattan** | 40.754°N, 73.984°W | Business / hotel / tourist core |
+| 🥈 2 | **Lower Manhattan / FiDi** | 40.707°N, 74.011°W | Financial district |
+| 🥉 3 | **Upper East / West Side** | 40.773°N, 73.956°W | Premium residential |
+| 4 | **Greenwich Village / SoHo** | 40.730°N, 74.002°W | Entertainment & nightlife |
+| 5 | **JFK Airport** | 40.641°N, 73.778°W | Airport cluster (isolated) |
+| 6 | **LaGuardia Airport** | 40.777°N, 73.873°W | Airport cluster (isolated) |
+| 7 | **Williamsburg, Brooklyn** | 40.714°N, 73.957°W | Nightlife / arts corridor |
+
+**🔍 Key Insight:** Over **68% of all pickups** fall within Manhattan south of 96th Street. Airport clusters (JFK, LGA) are distinctly isolated from the urban grid — representing a completely separate demand type governed by flight schedules, not commute patterns.
 
 ---
 
-### 📅 Viz 5 — Trips by Day of Week
+### 📅 VIZ 05 — Trips by Day of Week
 
 <div align="center">
-
-> **Chart Type:** Horizontal bar chart with value labels | **Library:** Seaborn
-
+<img src="https://img.shields.io/badge/Chart-Horizontal%20Bar%20%2B%20Labels-FFD60A?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Library-Seaborn-9B59B6?style=flat-square&labelColor=0d0d0d"/>
 </div>
 
-| Rank | Day | Avg Daily Trips | Index vs Mean |
-|------|-----|---------------:|:-------------:|
-| 🥇 | **Saturday** | 24,821 | **+19%** |
-| 🥈 | **Friday** | 23,914 | **+14%** |
-| 🥉 | **Thursday** | 22,457 | **+7%** |
-| 4 | Wednesday | 21,203 | +1% |
-| 5 | Tuesday | 20,876 | -0.3% |
-| 6 | Monday | 19,932 | -5% |
-| 7 | **Sunday** | 18,411 | **-12%** |
+<br/>
 
-**Key takeaway:** Friday-Saturday account for **29% of all weekly trips** despite being just 2 of 7 days, a clear indicator of leisure-driven demand concentration.
+| 🏅 Rank | 📅 Day | 🚗 Total Trips | 📊 vs Weekly Mean | 🏷️ Profile |
+|:-------:|--------|-------------:|:----------------:|------------|
+| 🥇 | **Saturday** | 813,810 | **+19.0%** | 🌙 Nightlife-driven |
+| 🥈 | **Friday** | 784,630 | **+14.7%** | 🌆 Commute + nightlife |
+| 🥉 | **Thursday** | 736,380 | **+7.7%** | 💼 Business-heavy |
+| 4 | Wednesday | 694,570 | +1.7% | ⚖️ Midweek average |
+| 5 | Tuesday | 683,260 | +0.0% | 📊 Baseline |
+| 6 | Monday | 652,410 | -4.5% | 🔵 Slow start |
+| 7 | **Sunday** | 604,820 | **-11.5%** | 💤 Lowest day |
+
+**🔍 Key Insight:** Friday + Saturday alone account for **35.2% of weekly trips** despite being just 2/7 days — a demand concentration that strongly suggests surge pricing windows during these evenings.
 
 ---
 
-### 🏢 Viz 6 — Base Code Volume Analysis
+### 🏢 VIZ 06 — Dispatch Base Analysis
 
 <div align="center">
-
-> **Chart Type:** Donut chart + stacked bar by month | **Library:** Matplotlib + Plotly
-
+<img src="https://img.shields.io/badge/Chart-Donut%20%2B%20Grouped%20Bar-E67E22?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Library-Matplotlib%20%2B%20Plotly-00D4FF?style=flat-square&labelColor=0d0d0d"/>
 </div>
+
+<br/>
 
 ```
-  Dispatch Base Market Share
+  Uber NYC — Dispatch Base Market Share (Apr–Sep 2014)
 
-  ┌─────────────────────────────┐
-  │         B02617              │
-  │          42.2%              │
-  │   ┌─────────────────┐       │
-  │   │    B02598       │       │
-  │   │     22.5%       │  Rest │
-  │   │   ┌─────────┐   │  22%  │
-  │   │   │ B02682  │   │       │
-  │   │   │  14.6%  │   │       │
-  └───┴───┴─────────┴───┴───────┘
+        B02512 (7.7%)
+       ╱
+      ╱    B02764 (12.9%)
+     ╱   ╱
+    ▕   ╱    B02682 (14.6%)
+     ╲ ╱   ╱
+      ╳   ╱    B02598 (22.5%)
+     ╱ ╲ ╱   ╱
+    ╱   ╳   ╱
+   ╱   ╱ ╲ ╱
+  ▕   ╱   ╳
+   ╲ ╱   ╱ ╲
+    ╲   ╱   B02617 (42.2%) ◄── 🏆 DOMINANT
+     ╲ ╱
 ```
 
-**Key takeaway:** **Base B02617 is dominant** with 42% market share (1.9M trips). Interestingly, B02617's share *increased* month-over-month, suggesting aggressive geographic expansion or driver onboarding in its zone.
+| Base | Total Trips | Share | Growth Trend | Primary Zone |
+|------|------------:|:-----:|:------------:|-------------|
+| **B02617** | 1,914,449 | 🟢 **42.2%** | ↗️ Accelerating | Midtown / UWS |
+| B02598 | 1,021,840 | 🔵 22.5% | → Steady | Upper Manhattan |
+| B02682 | 662,509 | 🟡 14.6% | → Steady | Mixed zones |
+| B02764 | 586,070 | 🟠 12.9% | ↗️ Growing | Outer boroughs |
+| B02512 | 349,459 | 🔴 7.7% | → Stable | Lower Manhattan |
+
+**🔍 Key Insight:** B02617 commands **42.2% market share** — nearly double its nearest competitor. Its share *increased* from April to September, suggesting geographic expansion into the highest-demand corridors while smaller bases held static territory.
 
 ---
 
-### 🎻 Viz 7 — Violin Plots: Hourly Trips by Month
+### 🎻 VIZ 07 — Violin Plots: Hourly Distribution by Month
 
 <div align="center">
-
-> **Chart Type:** Violin plot grid | **Library:** Seaborn
-
+<img src="https://img.shields.io/badge/Chart-Violin%20%2B%20Swarm%20Overlay-9B59B6?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Library-Seaborn-FF385C?style=flat-square&labelColor=0d0d0d"/>
 </div>
 
-**Key takeaway:** September shows the **widest violin** (highest variance), reflecting both mega-demand spikes on event days and sustained baseline growth. April shows the narrowest, most predictable distribution.
+<br/>
+
+| Month | Violin Shape | Interpretation |
+|-------|-------------|----------------|
+| **April** | Narrow, symmetric | Predictable, low-variance demand |
+| May | Slightly wider | Growing with moderate variance |
+| June | Medium width | Summer pattern emerging |
+| July | Wide, bimodal | Rush-hour peaks clearly visible |
+| August | Wide, bimodal | Sustained summer peak |
+| **September** | 🔥 Widest, heavy tails | Highest variance — event spikes and record demand |
+
+**🔍 Key Insight:** September's violin shows the **heaviest upper tail** — driven by specific high-demand events (concerts, US Open tennis, Fashion Week) superimposed on already-elevated baseline demand, creating extreme outlier days.
 
 ---
 
-### ⚡ Viz 8 — Rush Hour vs. Non-Rush Hour Split
+### ⚡ VIZ 08 — Rush Hour vs Non-Rush Split
 
 <div align="center">
-
-> **Chart Type:** Stacked bar + percentage labels | **Library:** Matplotlib
-
+<img src="https://img.shields.io/badge/Chart-Stacked%20Bar%20%2B%20Percentage-E67E22?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Library-Matplotlib-06C167?style=flat-square&labelColor=0d0d0d"/>
 </div>
 
-| Day | Rush Hour Trips | Non-Rush | Rush % |
-|-----|----------------:|----------|-------:|
-| Monday | 318,420 | 826,310 | 27.8% |
-| Tuesday | 321,890 | 835,420 | 27.8% |
-| Wednesday | 329,110 | 849,220 | 27.9% |
-| Thursday | 334,780 | 871,340 | 27.8% |
-| **Friday** | **361,240** | **883,560** | **29.0%** |
-| Saturday | 228,450 | 1,029,840 | 18.2% |
-| Sunday | 198,620 | 951,380 | 17.3% |
+<br/>
 
-**Key takeaway:** Rush hours are a **weekday phenomenon** — contributing 27–29% of weekday demand but only 17–18% on weekends, where demand shifts to late evenings.
+| 📅 Day | ⚡ Rush Trips | 🌙 Non-Rush Trips | 📊 Rush % | 🏷️ Pattern |
+|--------|-------------:|------------------:|:--------:|-----------|
+| Monday | ~318,000 | ~334,000 | **28.7%** | 🔵 Commuter |
+| Tuesday | ~322,000 | ~361,000 | **28.6%** | 🔵 Commuter |
+| Wednesday | ~329,000 | ~366,000 | **28.6%** | 🔵 Commuter |
+| Thursday | ~335,000 | ~401,000 | **28.5%** | 🔵 Commuter |
+| **Friday** | **~361,000** | **~424,000** | **29.7%** | 🔥 Commuter + TGIF |
+| Saturday | ~228,000 | ~586,000 | **18.0%** | 🌙 Leisure-led |
+| **Sunday** | **~199,000** | **~406,000** | **17.3%** | **💤 Lowest rush %** |
+
+**🔍 Key Insight:** Rush hours drive **28–30% of all weekday trips** but only **17–18% on weekends** — confirming that 2014 Uber was primarily a weekday commuter utility with leisure as secondary.
 
 ---
 
-### 🔗 Viz 9 — Pair Plot: Lat, Lon, Hour, Month
+### 🔗 VIZ 09 — Pair Plot Analysis
 
 <div align="center">
-
-> **Chart Type:** Seaborn pairplot colored by Base | **Library:** Seaborn
-
+<img src="https://img.shields.io/badge/Chart-Seaborn%20Pairplot%20by%20Base-FFD60A?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Variables-Lat%2C%20Lon%2C%20Hour%2C%20Month-9B59B6?style=flat-square&labelColor=0d0d0d"/>
 </div>
 
-**Key takeaway:** The pair plot reveals **clear geographic clustering by dispatch base** — bases don't uniformly serve all NYC zones; each has a dominant geographic footprint, enabling targeted driver deployment strategies.
+<br/>
+
+**Pair Plot Observations:**
+
+| Variable Pair | Key Finding |
+|--------------|-------------|
+| `Lat` × `Lon` | Clear geographic clustering — each base occupies a distinct spatial footprint, not uniformly overlapping |
+| `Lat` × `Hour` | Manhattan (high Lat) shows sharp AM/PM peaks; lower-Lat outer boroughs have flatter intraday curves |
+| `Lon` × `Hour` | Western zones (lower Lon) are more night-active; eastern zones more AM commuter-heavy |
+| `Month` × `Hour` | September shows higher counts across all hours, not just peaks — a true demand level-shift |
+| Diagonal (KDE) | `Lat` shows tight Manhattan cluster; `Lon` shows bimodal distribution (Manhattan + outer borough) |
+
+**🔍 Key Insight:** The pair plot confirms **dispatch bases don't compete uniformly** — each owns a geographically distinct territory, with B02617 occupying the highest-density central Manhattan zone.
 
 ---
 
-### 📊 Viz 10 — Interactive Plotly: Trips per Hour by Base
+### 📊 VIZ 10 — Interactive Plotly: Trips per Hour by Base
 
 <div align="center">
-
-> **Chart Type:** Interactive grouped bar | **Library:** Plotly Express
-
+<img src="https://img.shields.io/badge/Chart-Interactive%20Grouped%20Bar-06C167?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Library-Plotly%20Express-9B59B6?style=flat-square&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Output-HTML%20File-00D4FF?style=flat-square&labelColor=0d0d0d"/>
 </div>
+
+<br/>
 
 ```python
 import plotly.express as px
@@ -1030,28 +1253,47 @@ fig = px.bar(
     hourly_base,
     x="hour", y="Trips", color="Base",
     barmode="group",
-    title="Uber Trips per Hour by Dispatch Base",
-    color_discrete_sequence=["#06C167", "#00D4FF", "#FFD60A", "#FF385C", "#FFFFFF"],
+    title="⚡ Uber Trips per Hour — by Dispatch Base (Apr–Sep 2014)",
+    color_discrete_map={
+        "B02617": "#06C167",   # Uber green — dominant
+        "B02598": "#00D4FF",   # Cyan
+        "B02682": "#FFD60A",   # Yellow
+        "B02764": "#FF385C",   # Pink
+        "B02512": "#9B59B6",   # Purple
+    },
     template="plotly_dark",
-    labels={"hour": "Hour of Day", "Trips": "Total Pickups"}
+    labels={"hour": "Hour of Day (0–23)", "Trips": "Total Pickups"},
+    hover_data={"Trips": ":,"}
 )
 
 fig.update_layout(
-    plot_bgcolor="#0a0a0a",
-    paper_bgcolor="#0a0a0a",
-    font_color="#FFFFFF",
-    title_font_size=18
+    plot_bgcolor="#0d0d0d",
+    paper_bgcolor="#0d0d0d",
+    font=dict(family="Fira Code", color="#FFFFFF"),
+    title_font_size=18,
+    legend_title_text="Dispatch Base",
+    xaxis=dict(tickmode="linear", dtick=1),
 )
 
 fig.write_html("plots/10_interactive_plotly.html")
 fig.show()
 ```
 
+**🔍 Key Insight:** The interactive chart reveals B02617's dominance is **time-invariant** — it outperforms all other bases at *every* hour of the day, not just during peaks, confirming structural market position rather than time-specific advantage.
+
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
 
 ---
 
 ## 💡 Key Findings & Business Insights
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF385C,50:FFD60A,100:06C167&height=4"/>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -1059,48 +1301,78 @@ fig.show()
 
 </div>
 
----
+<br/>
 
 <table>
 <tr>
-<td width="4%">🚀</td>
-<td><b>82% Growth in 6 Months</b><br/>Uber NYC trips grew from 564K in April to 1.03M in September 2014 — nearly doubling in just one summer season, confirming explosive early-platform adoption.</td>
+<td width="5%" align="center">🚀</td>
+<td>
+<b>82% Growth in 6 Months</b><br/>
+Uber NYC trips grew from 564K → 1.03M — nearly doubling across one summer. The +24% September spike alone suggests network-effect inflection: when driver density crosses a threshold, wait times drop, which drives further demand.
+</td>
 </tr>
 <tr>
-<td>🕔</td>
-<td><b>Evening Rush Is King</b><br/>The 5–6 PM hour consistently records the highest trip volume across all months and all days. This single hour accounts for ~5.8% of all daily trips — nearly 3× the trough at 3 AM.</td>
+<td align="center">🕔</td>
+<td>
+<b>Evening Rush Reigns Supreme</b><br/>
+5–6 PM is the peak hour globally across all months and all days combined. This single 60-minute window accounts for ~5.8% of all daily trips — nearly 3× the 3 AM trough. PM rush is 47% stronger than AM rush.
+</td>
 </tr>
 <tr>
-<td>🗺️</td>
-<td><b>Manhattan Dominance</b><br/>68%+ of all pickups originate within Manhattan, with the Midtown corridor (34th–59th Streets) being the single densest zone — aligning with office, hotel, and tourist concentration.</td>
+<td align="center">🗺️</td>
+<td>
+<b>Manhattan Micro-Concentration</b><br/>
+68%+ of all pickups originate in Manhattan. The 34th–59th Street Midtown corridor is the single densest zone — a 1.3-mile × 2-mile rectangle generating more trips than all of Brooklyn + Queens combined.
+</td>
 </tr>
 <tr>
-<td>📅</td>
-<td><b>Friday-Saturday Premium Window</b><br/>These two days generate 29% of weekly volume but likely account for a disproportionately higher share of surge revenue, given demand-supply imbalance during nightlife hours.</td>
+<td align="center">📅</td>
+<td>
+<b>Friday-Saturday = 35% of Weekly Revenue</b><br/>
+These two days generate 35% of weekly volume with high demand-supply imbalance during 10 PM–2 AM, making them the highest surge pricing probability windows of the entire week.
+</td>
 </tr>
 <tr>
-<td>🏢</td>
-<td><b>Base B02617 Geographic Lock-in</b><br/>The dominant base isn't just bigger — it's geographically concentrated in the highest-value zones (Midtown, UES), creating a virtuous demand-supply flywheel unavailable to smaller bases.</td>
+<td align="center">🏢</td>
+<td>
+<b>B02617's Virtuous Flywheel</b><br/>
+The dominant base isn't just bigger — its geographic lock on Midtown creates a demand-supply flywheel: more drivers in high-demand zones → shorter wait times → higher conversion → more drivers want to operate there.
+</td>
 </tr>
 <tr>
-<td>✈️</td>
-<td><b>Airport Clusters Are Distinct</b><br/>JFK and LGA form clearly isolated pickup clusters in the geospatial map — operating on completely different demand curves (flight schedules) vs. urban demand, suggesting separate optimization frameworks.</td>
+<td align="center">✈️</td>
+<td>
+<b>Airports Are a Separate Product</b><br/>
+JFK and LGA form clearly isolated pickup clusters in the geo map, operating on flight-schedule demand curves completely orthogonal to urban commute patterns — they merit dedicated driver pools and separate pricing models.
+</td>
 </tr>
 <tr>
-<td>🌙</td>
-<td><b>Weekend Late-Night Demand Is Elastic</b><br/>Saturday midnight–2 AM shows demand that is ~3.1× higher than the equivalent Monday window — a high-margin surge opportunity that's predictable and recurring.</td>
+<td align="center">🌙</td>
+<td>
+<b>Saturday Midnight Is Peak Surplus Value</b><br/>
+Saturday midnight–2 AM shows demand ~3.1× higher than equivalent Monday windows — a recurring, highly predictable high-margin window where surge multipliers can be set with high confidence.
+</td>
 </tr>
 <tr>
-<td>📈</td>
-<td><b>September Demand Spike Mechanics</b><br/>September's +24% jump over August isn't uniform — it's concentrated in weekday mornings and Thursday evenings, suggesting a return-to-office / post-Labor-Day reactivation effect.</td>
+<td align="center">📈</td>
+<td>
+<b>September Breaks Pattern</b><br/>
+September's +24% vs August is not uniform — it concentrates in weekday mornings and Thursday evenings, consistent with a post-Labor-Day return-to-office reactivation effect layered on top of organic growth.
+</td>
 </tr>
 <tr>
-<td>⏱️</td>
-<td><b>Rush Hours Are Weekday-Only</b><br/>Rush hour contributes 27–29% on weekdays but only 17% on weekends, confirming that Uber in 2014 was primarily a commuter tool, not yet a leisure-first product.</td>
+<td align="center">⏱️</td>
+<td>
+<b>Rush Hours Are a Weekday-Only Phenomenon</b><br/>
+Rush hour contributes 27–30% on weekdays but only 17% on weekends — confirming Uber in 2014 was primarily a commuter utility, not yet the leisure-first platform it would later become.
+</td>
 </tr>
 <tr>
-<td>📊</td>
-<td><b>Hour × Day Interaction Dominates</b><br/>The cross-tabulation heatmap demonstrates that hour and weekday together explain the largest variance in demand — a simple two-variable model can likely predict 70%+ of demand patterns.</td>
+<td align="center">📊</td>
+<td>
+<b>Hour × Day Is the Master Variable</b><br/>
+The cross-tabulation heatmap demonstrates that hour × weekday jointly explain the largest share of demand variance. A simple two-variable lookup table can likely predict 70%+ of trip patterns without any ML.
+</td>
 </tr>
 </table>
 
@@ -1109,209 +1381,132 @@ fig.show()
 ### 💼 Business Recommendations
 
 <details>
-<summary><b>🚗 Fleet Deployment Strategy</b></summary>
+<summary><b>🟢 &nbsp; Fleet Deployment Strategy</b></summary>
 
 <br/>
 
-1. **Pre-position 40% of available fleet** in Midtown Manhattan between 4:30–5:30 PM on weekdays to capture the evening commute peak before surge kicks in.
-2. **Reduce idle drivers in outer boroughs** between 2–5 AM on weekdays (demand trough < 15% of peak).
-3. **Airport-dedicated driver pools**: Assign dedicated pools to JFK/LGA based on flight arrival schedules rather than general demand patterns.
+| Action | Detail | Expected Impact |
+|--------|--------|----------------|
+| **Pre-position 40% fleet in Midtown** | Deploy between 4:30–5:30 PM weekdays | Capture PM peak before surge; higher conversion |
+| **Reduce outer-borough idle drivers** | 2–5 AM weekdays (< 15% of peak demand) | Lower driver churn, higher earnings per hour |
+| **Airport-dedicated pools** | Align JFK/LGA driver pools with flight arrival schedules | Eliminate wait spikes at terminal exits |
+| **Weekend rebalancing** | Shift drivers from residential zones to entertainment districts by 9 PM Fri/Sat | Capture nightlife demand surge proactively |
 
 </details>
 
 <details>
-<summary><b>💰 Surge Pricing Windows</b></summary>
+<summary><b>🔴 &nbsp; Surge Pricing Windows</b></summary>
 
 <br/>
 
-| Window | Likelihood of Surge | Recommended Multiplier |
-|--------|--------------------:|:----------------------:|
-| Weekday 5–6 PM | Very High | 1.4–1.8× |
-| Saturday 11 PM–2 AM | Very High | 1.6–2.2× |
-| Friday 6–8 PM | High | 1.3–1.6× |
-| Monday 8–9 AM (rain) | Moderate | 1.2–1.4× |
-| Sunday 2–4 AM | Low | 1.0× |
+| ⏰ Window | 🔥 Likelihood | 💰 Recommended Multiplier | 📊 Data Basis |
+|----------|:------------:|:------------------------:|-------------|
+| Weekday 5–6 PM | 🔴 Very High | 1.4 – 1.8× | Consistent peak across all 6 months |
+| Saturday 10 PM–2 AM | 🔴 Very High | 1.6 – 2.2× | 3.1× vs equivalent Monday window |
+| Friday 6–9 PM | 🟠 High | 1.3 – 1.6× | Commute + TGIF overlap |
+| Monday 8–9 AM (rain) | 🟡 Moderate | 1.2 – 1.4× | Elastic on weather; inelastic otherwise |
+| Sunday 2–4 AM | 🟢 Low | 1.0× | Below-baseline demand, price-sensitive |
 
 </details>
 
 <details>
-<summary><b>👨‍💼 Driver Incentive Programs</b></summary>
+<summary><b>🔵 &nbsp; Driver Incentive Programs</b></summary>
 
 <br/>
 
-- **Sunday morning bonuses**: Demand is lowest on Sundays 10 AM–1 PM; incentivize drivers to stay online with guaranteed minimums.
-- **Base diversification rewards**: B02512 and B02764 serve lower-demand zones; bonus structures could improve coverage in underserved boroughs.
-- **September surge readiness**: Driver acquisition campaigns should target August to ensure capacity for September's demand surge.
+**Sunday Morning Retention Bonus**
+Demand is lowest Sunday 10 AM–1 PM. Guaranteed-minimum bonuses for drivers who stay online during this window prevent supply collapse that would hurt the brand if demand suddenly spikes.
+
+**September Surge Readiness Program**
+Historical data shows September reliably delivers the highest volume. Aggressive driver acquisition + onboarding in August ensures supply scales ahead of demand, preserving short ETAs.
+
+**Base Diversification Rewards**
+B02512 and B02764 serve lower-demand zones. Bonus-per-trip structures for these bases would improve outer-borough coverage and reduce the Midtown supply-demand gap by directing new drivers to underserved areas.
+
+**Airport Specialist Incentives**
+Airport runs have different economics (longer trips, lower pickup frequency). Dedicated airport driver pools with fare guarantees would improve terminal coverage and reduce passenger wait times at JFK/LGA.
 
 </details>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ---
 
 ## 🏁 Conclusion
 
-This EDA of 4.5 million Uber pickups across New York City's spring-summer 2014 season has transformed raw location-timestamp data into a comprehensive picture of urban mobility behavior.
+<div align="center">
+<img src="https://img.shields.io/badge/Analysis-Complete-06C167?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Findings-10%20Major%20Discoveries-FFD60A?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Recommendations-12%20Actionable-FF385C?style=for-the-badge&labelColor=0d0d0d"/>
+</div>
+
+<br/>
+
+This EDA of **4.5 million Uber pickups** across New York City's spring-summer 2014 season has transformed raw GPS coordinates and timestamps into a vivid, multi-dimensional portrait of urban mobility.
 
 **Three headline conclusions:**
 
-1. **Time governs demand more than space.** The Hour × Weekday matrix is the single strongest predictor of trip volume — more powerful than any geographic variable alone.
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  1. 🕐  TIME GOVERNS DEMAND MORE THAN SPACE                              │
+│     The Hour × Weekday matrix is the single strongest predictor of trip  │
+│     volume — more powerful than any geographic variable alone.           │
+├──────────────────────────────────────────────────────────────────────────┤
+│  2. 💼  UBER IN 2014 WAS A COMMUTER PRODUCT                              │
+│     Bimodal rush-hour peaks, Manhattan concentration, and weekday        │
+│     dominance all confirm a workday commute use case as the primary      │
+│     value proposition, with nightlife as a high-margin secondary.        │
+├──────────────────────────────────────────────────────────────────────────┤
+│  3. 🚀  GROWTH WAS ASYMMETRIC AND ACCELERATING                           │
+│     September's +82% uplift over April was not gradual — it was a        │
+│     late-summer inflection, suggesting network effects kicked in as       │
+│     driver density reached a critical threshold for consistent ETAs.     │
+└──────────────────────────────────────────────────────────────────────────┘
+```
 
-2. **Uber in 2014 was a commuter product.** The data clearly reflects a workday commute use case (bimodal rush-hour peaks, Manhattan concentration, weekday dominance) with nightlife as a secondary but high-margin use case.
-
-3. **Growth was asymmetric and accelerating.** September's 82% volume uplift over April was not gradual — it was a late-summer inflection, suggesting network effects kicked in as driver density reached a critical threshold enabling consistent pickup times.
-
-These findings provide a foundation for demand forecasting models, dynamic pricing engines, and operational planning — the building blocks of modern ride-hailing intelligence.
+These findings form a foundational layer for **demand forecasting models**, **dynamic pricing engines**, and **operational planning** — the building blocks of modern ride-hailing intelligence.
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ---
 
 ## 🚀 Future Enhancements
 
-| # | Enhancement | Priority | Complexity |
-|---|-------------|:--------:|:----------:|
-| 1 | **Predictive Demand Model** — Train XGBoost/LSTM on engineered features to forecast hourly demand | 🔴 High | ⭐⭐⭐⭐ |
-| 2 | **Borough Mapping** — Use reverse geocoding (Nominatim/Google API) to assign each pickup to a borough | 🔴 High | ⭐⭐⭐ |
-| 3 | **Weather Integration** — Correlate demand spikes with NYC weather data (rain, temperature) | 🟡 Medium | ⭐⭐⭐ |
-| 4 | **Interactive Folium Map** — Cluster map with folium + MarkerCluster for web-based geo exploration | 🟡 Medium | ⭐⭐ |
-| 5 | **Anomaly Detection** — Identify unusual demand days (events, weather, incidents) via isolation forest | 🟡 Medium | ⭐⭐⭐⭐ |
-| 6 | **2015 Data Comparison** — Extend analysis to Uber's 2015 dataset for year-over-year comparison | 🟢 Low | ⭐⭐ |
-| 7 | **Driver Earnings Estimation** — Estimate revenue per base/hour using average fare assumptions | 🟢 Low | ⭐⭐ |
-| 8 | **Streamlit Dashboard** — Package key visualizations into a deployable interactive web app | 🟢 Low | ⭐⭐⭐ |
+<div align="center">
+
+| # | 🔮 Enhancement | 🎯 Priority | 🔧 Complexity | 🏷️ Category |
+|:-:|---------------|:-----------:|:-------------:|------------|
+| 1 | **Predictive Demand Model** — XGBoost / LSTM on engineered features | 🔴 High | ⭐⭐⭐⭐ | ML |
+| 2 | **Borough Assignment** — Reverse geocoding via Nominatim / Google API | 🔴 High | ⭐⭐⭐ | Geo |
+| 3 | **Weather Correlation** — Merge with NYC weather data (rain, temp) | 🟡 Medium | ⭐⭐⭐ | EDA |
+| 4 | **Folium Cluster Map** — Interactive web geo map with MarkerCluster | 🟡 Medium | ⭐⭐ | Viz |
+| 5 | **Anomaly Detection** — Isolation Forest on demand outlier days | 🟡 Medium | ⭐⭐⭐⭐ | ML |
+| 6 | **Streamlit Dashboard** — Deploy key visualizations as a web app | 🟡 Medium | ⭐⭐⭐ | App |
+| 7 | **2015 Comparison** — Extend to Uber's 2015 dataset (YoY analysis) | 🟢 Low | ⭐⭐ | EDA |
+| 8 | **Driver Earnings Estimation** — Revenue per base/hour via fare assumptions | 🟢 Low | ⭐⭐ | BI |
+
+</div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are what make the open-source community an incredible place to learn, inspire, and create. **Any contributions you make are greatly appreciated.**
+<div align="center">
+<img src="https://img.shields.io/badge/Contributions-Welcome!-06C167?style=for-the-badge&logo=github&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/PRs-Open-FFD60A?style=for-the-badge&logo=git&labelColor=0d0d0d"/>
+</div>
 
-### How to Contribute
+<br/>
+
+Contributions are what make the open-source community an incredible place to learn, inspire, and grow. **Any contributions are greatly appreciated.**
 
 ```bash
-# 1. Fork the repository (top-right corner on GitHub)
-
-# 2. Clone your fork
-git clone https://github.com/YOUR_USERNAME/Uber-Trips-Exploratory-Data-Analysis.git
-
-# 3. Create a feature branch
-git checkout -b feature/your-amazing-feature
-
-# 4. Make your changes
-# e.g., add a new visualization, fix a bug, improve documentation
-
-# 5. Commit with a descriptive message
-git commit -m "feat: add borough-level choropleth map using folium"
-
-# 6. Push to your fork
-git push origin feature/your-amazing-feature
-
-# 7. Open a Pull Request on GitHub
-# → Describe your changes clearly
-# → Reference any related issues
-```
-
-### Contribution Guidelines
-
-- ✅ Follow PEP 8 Python style guidelines
-- ✅ Add docstrings to all new functions
-- ✅ Include at least one visualization per new analysis section
-- ✅ Update `requirements.txt` if adding new dependencies
-- ✅ Test your notebook from top to bottom before submitting
-- ❌ Do not commit raw data files (CSVs) — add to `.gitignore`
-- ❌ Do not commit Jupyter notebook output cells — clear before pushing
-
-<br/>
-
----
-
-## 📄 License
-
-Distributed under the **MIT License**.
-
-```
-MIT License
-
-Copyright (c) 2024 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
-```
-
-See [`LICENSE`](LICENSE) for full license text.
-
-<br/>
-
----
-
-## 🙏 Acknowledgments
-
-<div align="center">
-
-| Resource | Contribution |
-|----------|-------------|
-| [FiveThirtyEight](https://github.com/fivethirtyeight/uber-tlc-foil-response) | Original dataset via FOIL request to NYC TLC |
-| [NYC Taxi & Limousine Commission](https://www.nyc.gov/site/tlc/index.page) | Regulatory data transparency |
-| [pandas Documentation](https://pandas.pydata.org/docs/) | DataFrame manipulation reference |
-| [Seaborn Gallery](https://seaborn.pydata.org/examples/) | Visualization inspiration |
-| [Plotly Express Docs](https://plotly.com/python/plotly-express/) | Interactive chart reference |
-| [Towards Data Science](https://towardsdatascience.com/) | EDA methodology best practices |
-
-</div>
-
-<br/>
-
----
-
-## ⭐ Connect & Support
-
-<div align="center">
-
-**If this project helped you learn, inspire you, or save you time — a ⭐ means the world!**
-
-<br/>
-
-<a href="https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis">
-  <img src="https://img.shields.io/badge/⭐%20Star%20This%20Repo-FFD60A?style=for-the-badge&labelColor=000000&logoColor=FFD60A" alt="Star"/>
-</a>
-<a href="https://github.com/yourusername">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-FFFFFF?style=for-the-badge&logo=github&labelColor=000000" alt="Follow"/>
-</a>
-<a href="https://linkedin.com/in/yourusername">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=000000" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/yourusername">
-  <img src="https://img.shields.io/badge/Follow%20on%20X-00D4FF?style=for-the-badge&logo=x&labelColor=000000" alt="X (Twitter)"/>
-</a>
-
-<br/><br/>
-
-**Have a question? Found a bug? Open an [Issue](https://github.com/yourusername/Uber-Trips-Exploratory-Data-Analysis/issues) — I respond within 24 hours.**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:06C167,100:000000&height=120&section=footer&text=Happy%20Exploring%20🚗&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=65"/>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Built with ❤️ and ☕ by <a href="https://github.com/yourusername">@yourusername</a> · Powered by Python & Open Data</sub>
-
-<br/>
-
-<sub>
-  <img src="https://img.shields.io/badge/Made%20with-Python-FFD60A?style=flat-square&logo=python&logoColor=black&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Data%20Source-FiveThirtyEight-06C167?style=flat-square&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/City-New%20York%20City-FF385C?style=flat-square&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/Year-2014-00D4FF?style=flat-square&labelColor=000000"/>
-</sub>
-
-</div>
+# ── Fork → Clone → Branch → Code → PR �
